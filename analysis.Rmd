@@ -1,0 +1,75 @@
+---
+title: "bank test"
+author: "Jonathan Isaac"
+date: "August 20, 2019"
+output: html_document
+---
+```{r}
+getwd()
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+```
+
+
+```{r}
+info1 <- read.csv("./file_idcu1_2.txt", sep = "|", header = FALSE)
+info2 <- read.csv("./idcu_file2.txt")
+head(info1, 100)
+```
+
+```{r}
+str(info1)
+```
+
+
+
+```{r}
+account_types <- levels(info1$V1)
+data.class(account_types)
+accounts <- list()
+for (i in 1:length(account_types)) {
+  assign(paste("code",account_types[i],sep="_"), info1[info1$V1 == account_types[i], ] ) 
+  df <- info1[info1$V1 == account_types[i], ]
+  accounts[[i]] <- df
+}
+
+names(accounts, account_types)
+```
+
+```{r}
+names(accounts) = account_types
+```
+
+
+```{r}
+accounts$`0`
+```
+
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
