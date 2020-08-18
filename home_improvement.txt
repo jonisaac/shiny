@@ -1,0 +1,33 @@
+"index" "store" "found" "amount" "indiv"
+"1" "84 Lumber" 0 0 0
+"2" "Build.com" 0 0 0
+"3" "Build" 8 2734.46 6
+"4" "Buildcom" 0 0 0
+"5" "Builders Emporium" 0 0 0
+"6" "Channel Home Centers" 0 0 0
+"7" "Empire Today" 0 0 0
+"8" "Ernst Home Centers" 0 0 0
+"9" "Floor & Decor" 0 0 0
+"10" "Floor and Decor" 0 0 0
+"11" "Handy Andy" 0 0 0
+"12" "Harbor Freight Tools" 26 1181.18 24
+"13" "Hechinger" 0 0 0
+"14" "Home Improvement Center" 0 0 0
+"15" "Home Quarters Warehouse" 0 0 0
+"16" "HomeBase" 0 0 0
+"17" "Lowe's" 0 0 0
+"18" "Lowes" 283 19058.55 135
+"19" "Menards" 5 335.86 2
+"20" "Orchard Supply Hardware" 0 0 0
+"21" "Pacific Sales" 0 0 0
+"22" "Pay 'n Pak" 0 0 0
+"23" "Pay n Pak" 0 0 0
+"24" "Payless Cashways" 0 0 0
+"25" "Proteak" 0 0 0
+"26" "Rickel" 0 0 0
+"27" "Scotty's Builders Supply" 0 0 0
+"28" "Scottys Builders Supply" 0 0 0
+"29" "The Home Depot" 148 10150.62 88
+"30" "Tractor Supply Company" 1 53.74 1
+"31" "True Value" 0 0 0
+"32" "Valu Home Centers" 0 0 0

@@ -1,0 +1,2759 @@
+"index" "college" "visits" "amount"
+"1" "Alabama" 46 5636.8
+"2" "Auburn" 13 342.07
+"3" "Auburn University" 0 0
+"4" "Edward Via College of Osteopathic Medicine" 0 0
+"5" "Birmingham " 0 0
+"6" "University of Alabama at Birmingham" 0 0
+"7" "Birmingham School of Law" 0 0
+"8" "Birmingham Southern College" 0 0
+"9" "Cumberland School of Law" 0 0
+"10" "Miles Law School" 0 0
+"11" "Dothan " 0 0
+"12" "Fortis College" 0 0
+"13" "Troy University Dothan Campus" 0 0
+"14" "Alabama College of Osteopathic Medicine" 0 0
+"15" "Florence " 0 0
+"16" "University of North Alabama" 0 0
+"17" "Homewood " 0 0
+"18" "Samford University" 0 0
+"19" "Huntsville " 0 0
+"20" "University of Alabama" 0 0
+"21" "Huntsville" 3 95.57
+"22" "Jacksonville " 0 0
+"23" "Jacksonville State University" 0 0
+"24" "Livingston " 0 0
+"25" "University of West Alabama" 0 0
+"26" "Mobile " 0 0
+"27" "University of South Alabama" 0 0
+"28" "Montevallo " 0 0
+"29" "University of Montevallo" 0 0
+"30" "Faulkner University" 0 0
+"31" "Montgomery " 0 0
+"32" "Alabama State University" 0 0
+"33" "Huntingdon College" 0 0
+"34" "Auburn University at Montgomery" 0 0
+"35" "H. Councill Trenholm State Technical College" 0 0
+"36" "Faulkner University" 0 0
+"37" "Troy " 0 0
+"38" "Troy University" 0 0
+"39" "Tuscaloosa " 0 0
+"40" "University of Alabama" 0 0
+"41" "Stillman College" 0 0
+"42" "Shelton State" 0 0
+"43" "Tuskegee " 0 0
+"44" "Tuskegee University" 0 0
+"45" "Alaska[edit]" 0 0
+"46" "Anchorage " 0 0
+"47" "University of Alaska Anchorage" 0 0
+"48" "Fairbanks " 0 0
+"49" "University of Alaska Fairbanks" 0 0
+"50" "Juneau " 0 0
+"51" "University of Alaska Southeast" 0 0
+"52" "Ketchikan " 0 0
+"53" "University of Alaska Southeast-extended campus" 0 0
+"54" "Sitka " 0 0
+"55" "University of Alaska Southeast-extended campus" 0 0
+"56" "Arizona[edit]" 0 0
+"57" "Chandler " 0 0
+"58" "Western International University" 0 0
+"59" "University of Phoenix" 0 0
+"60" "International Baptist College" 0 0
+"61" "Ottawa University " 0 0
+"62" "adult education programs" 0 0
+"63" "Chandler University" 0 0
+"64" "Flagstaff " 0 0
+"65" "Northern Arizona University" 0 0
+"66" "Gilbert" 0 0
+"67" "Glendale " 0 0
+"68" "Thunderbird School of Global Management at ASU" 0 0
+"69" "Midwestern University Glendale campus" 0 0
+"70" "Lake Havasu City " 0 0
+"71" "ASU Colleges at Lake Havasu City" 0 0
+"72" "Northern Arizona University extended campus" 0 0
+"73" "Mesa " 0 0
+"74" "Arizona State University Polytechnic campus" 0 0
+"75" "Benedictine University branch campus" 0 0
+"76" "Upper Iowa University branch campus" 0 0
+"77" "A.T. Still University School of Osteopathic Medicine in Arizona" 0 0
+"78" "Peoria " 0 0
+"79" "Trine University branch campus" 0 0
+"80" "Phoenix " 0 0
+"81" "Arizona State University" 0 0
+"82" "University of Phoenix" 0 0
+"83" "University of Arizona College of Medicine" 0 0
+"84" "small satellite campus for Northern Arizona University" 0 0
+"85" "Grand Canyon University" 0 0
+"86" "Arizona Summit Law School" 0 0
+"87" "Arizona Christian University" 0 0
+"88" "Prescott " 0 0
+"89" "Embry–Riddle Aeronautical University" 0 0
+"90" "Yavapai College" 0 0
+"91" "Prescott College" 0 0
+"92" "Northern Arizona University" 0 0
+"93" "Old Dominion University" 0 0
+"94" "Scottsdale " 0 0
+"95" "University of Phoenix" 0 0
+"96" "Tempe " 0 0
+"97" "Arizona State University" 0 0
+"98" "University of Phoenix" 0 0
+"99" "Brookline College" 0 0
+"100" "Bryan University" 0 0
+"101" "Tucson " 0 0
+"102" "University of Arizona" 0 0
+"103" "Tucson College" 0 0
+"104" "Brown Mackie College" 0 0
+"105" "Brookline College" 0 0
+"106" "University of Phoenix" 0 0
+"107" "The Art Institute of Tucson" 0 0
+"108" "Prescott College branch campus" 0 0
+"109" "Northern Arizona University branch campus" 0 0
+"110" "The Art Center Design College" 0 0
+"111" "Wayland Baptist University" 0 0
+"112" "Arkansas[edit]" 0 0
+"113" "Arkadelphia " 0 0
+"114" "Henderson State University" 0 0
+"115" "Ouachita Baptist University" 0 0
+"116" "Conway " 0 0
+"117" "Central Baptist College" 0 0
+"118" "Hendrix College" 0 0
+"119" "University of Central Arkansas" 0 0
+"120" "Fayetteville " 0 0
+"121" "University of Arkansas" 0 0
+"122" "Fort Smith " 0 0
+"123" "University of Arkansas at Fort Smith" 0 0
+"124" "Webster University satellite campus" 0 0
+"125" "John Brown University satellite campus" 0 0
+"126" "Arkansas College of Osteopathic Medicine" 0 0
+"127" "Jonesboro " 0 0
+"128" "Arkansas State University" 0 0
+"129" "Little Rock " 0 0
+"130" "University of Arkansas at Little Rock" 0 0
+"131" "University of Arkansas for Medical Sciences" 0 0
+"132" "Philander Smith College" 0 0
+"133" "Arkansas Baptist College" 0 0
+"134" "Magnolia " 0 0
+"135" "Southern Arkansas University" 0 0
+"136" "Monticello " 0 0
+"137" "University of Arkansas at Monticello" 0 0
+"138" "Russellville " 0 0
+"139" "Arkansas Tech University" 0 0
+"140" "Searcy " 0 0
+"141" "Harding University" 0 0
+"142" "California[edit]" 0 0
+"143" "Acton " 0 0
+"144" "Larry H. Layton School of Law" 0 0
+"145" "Alhambra " 0 0
+"146" "Platt College" 0 0
+"147" "Alhambra branch of Everest College" 0 0
+"148" "Los Angeles Campus of Alliant International University" 0 0
+"149" "University of Southern California's Health Sciences Alhambra campus" 0 0
+"150" "Anaheim " 0 0
+"151" "Anaheim University" 0 0
+"152" "California Institute of Technology " 0 0
+"153" "SCIT" 0 0
+"154" "Bristol University" 0 0
+"155" "Angwin " 0 0
+"156" "Pacific Union College" 0 0
+"157" "Antioch" 0 0
+"158" "Arcata " 0 0
+"159" "Humboldt State University" 0 0
+"160" "Arden-Arcade" 0 0
+"161" "Azusa" 0 0
+"162" "Bakersfield " 0 0
+"163" "California State University" 0 0
+"164" "Bakersfield; University of LaVerne" 0 0
+"165" "Fresno Pacific University" 0 0
+"166" "and Point Loma Nazarene University branch campuses" 0 0
+"167" "San Joaquin Valley College" 0 0
+"168" "Santa Barbara Business College" 0 0
+"169" "Berkeley " 0 0
+"170" "University of California" 0 0
+"171" "Berkeley" 0 0
+"172" "Burbank " 0 0
+"173" "Woodbury University" 0 0
+"174" "Camarillo " 0 0
+"175" "California State University Channel Islands" 0 0
+"176" "Carson " 0 0
+"177" "California State University" 0 0
+"178" "Dominguez Hills" 0 0
+"179" "Cerritos " 0 0
+"180" "Cerritos College" 0 0
+"181" "Fremont College" 0 0
+"182" "Irvine University College of Law" 0 0
+"183" "Chico " 0 0
+"184" "California State University" 0 0
+"185" "Chico" 14 973.01
+"186" "Cal Northern School of Law" 0 0
+"187" "Chino Hills " 0 0
+"188" "Biola University " 0 0
+"189" "Satellite Campus" 0 0
+"190" "Chula Vista " 0 0
+"191" "Southwestern College" 0 0
+"192" "Claremont " 0 0
+"193" "Claremont McKenna College" 0 0
+"194" "Pomona College" 0 0
+"195" "Harvey Mudd College" 0 0
+"196" "Scripps College" 0 0
+"197" "Pitzer College" 0 0
+"198" "Keck Graduate Institute" 0 0
+"199" "Claremont Graduate University" 0 0
+"200" "Clovis " 0 0
+"201" "San Joaquin College of Law" 0 0
+"202" "Compton " 0 0
+"203" "El Camino College" 0 0
+"204" "Concord " 0 0
+"205" "California State University" 0 0
+"206" "East Bay satellite campus" 0 0
+"207" "Corona" 0 0
+"208" "Costa Mesa " 0 0
+"209" "Orange Coast College" 0 0
+"210" "Vanguard University" 0 0
+"211" "Whittier Law School " 0 0
+"212" "a satellite of Whittier College and National University satellite campus" 0 0
+"213" "Cotati " 0 0
+"214" "California State University" 0 0
+"215" "Sonoma" 1 53.77
+"216" "Daly City" 0 0
+"217" "Davis " 0 0
+"218" "University of California" 0 0
+"219" "Davis" 5 304.6
+"220" "Downey" 0 0
+"221" "East Los Angeles" 0 0
+"222" "El Cajon " 0 0
+"223" "Cuyamaca College" 0 0
+"224" "Grossmont College" 0 0
+"225" "San Diego Christian College" 0 0
+"226" "El Monte" 0 0
+"227" "Elk Grove " 0 0
+"228" "California Northstate University College of Pharmacy" 0 0
+"229" "Escondido" 0 0
+"230" "Fairfield " 0 0
+"231" "Solano Community College" 0 0
+"232" "satellite campuses of University of Phoenix" 0 0
+"233" "Brandman University" 0 0
+"234" "InterCoast Colleges" 0 0
+"235" "and Embry Riddle Aeronautical University " 0 0
+"236" "at Travis AFB" 0 0
+"237" "Fontana" 0 0
+"238" "Fremont " 0 0
+"239" "University of Silicon Valley Law School" 0 0
+"240" "Fresno " 0 0
+"241" "Alliant International University" 0 0
+"242" "California Christian College" 0 0
+"243" "California State University" 0 0
+"244" "Fresno" 0 0
+"245" "Fresno Pacific University" 0 0
+"246" "Kaplan College Fresno campus" 0 0
+"247" "National University Fresno campus" 0 0
+"248" "University of California" 0 0
+"249" "San Francisco – Fresno Medical Education Program" 0 0
+"250" "University of California" 0 0
+"251" "Merced" 1 709.5
+"252" "University of Phoenix" 0 0
+"253" "Fullerton " 0 0
+"254" "California State University" 0 0
+"255" "Fullerton" 0 0
+"256" "Western State College of Law at Argosy University" 0 0
+"257" "Hope International University" 0 0
+"258" "Marshall B. Ketchum University" 0 0
+"259" "Fullerton College" 0 0
+"260" "Garden Grove" 0 0
+"261" "Glendale " 0 0
+"262" "Glendale University College of Law" 0 0
+"263" "Hawthorne " 0 0
+"264" "Los Angeles Southwest College" 0 0
+"265" "El Camino College" 0 0
+"266" "Hayward " 0 0
+"267" "California State University" 0 0
+"268" "East Bay" 0 0
+"269" "Huntington Beach " 0 0
+"270" "Golden West College" 0 0
+"271" "Indio " 0 0
+"272" "California Desert Trial Academy College of Law" 0 0
+"273" "Inglewood " 0 0
+"274" "University of West Los Angeles" 0 0
+"275" "Irvine " 0 0
+"276" "University of California" 0 0
+"277" "Irvine" 12 1934.79
+"278" "Western State College of Law at Argosy University" 0 0
+"279" "Isla Vista " 0 0
+"280" "University of California" 0 0
+"281" "Santa Barbara" 0 0
+"282" "Lancaster " 0 0
+"283" "University of Antelope Valley" 0 0
+"284" "Antelope Valley College" 0 0
+"285" "satellite campus of California State University" 0 0
+"286" "Bakersfield" 0 0
+"287" "Charter College" 0 0
+"288" "La Mesa " 0 0
+"289" "McMillan Academy of Law" 0 0
+"290" "La Verne " 0 0
+"291" "University of La Verne" 0 0
+"292" "Loma Linda " 0 0
+"293" "Loma Linda University" 0 0
+"294" "Long Beach " 0 0
+"295" "California State University" 0 0
+"296" "Long Beach" 1 18.94
+"297" "Pacific Coast University School of Law" 0 0
+"298" "Los Angeles " 0 0
+"299" "California State University" 0 0
+"300" "Los Angeles" 0 0
+"301" "California State University" 0 0
+"302" "Northridge" 0 0
+"303" "University of California" 0 0
+"304" "Los Angeles" 0 0
+"305" "Chatsworth " 0 0
+"306" "University of West Los Angeles" 0 0
+"307" "Downtown Los Angeles " 0 0
+"308" "Peoples College of Law" 0 0
+"309" "Mid-Wilshire " 0 0
+"310" "Southwestern University School of Law" 0 0
+"311" "Pico-Union " 0 0
+"312" "Loyola Law School" 0 0
+"313" "University Park " 0 0
+"314" "University of Southern California" 0 0
+"315" "Westchester " 0 0
+"316" "Loyola Marymount University" 0 0
+"317" "Malibu " 0 0
+"318" "Pepperdine University" 0 0
+"319" "Merced " 0 0
+"320" "University of California" 0 0
+"321" "Merced" 1 709.5
+"322" "Modesto " 0 0
+"323" "Humphreys College" 0 0
+"324" "Moreno Valley " 0 0
+"325" "Chapman University" 0 0
+"326" "Moreno Valley College" 0 0
+"327" "Murrieta " 0 0
+"328" "University of Phoenix learning center" 0 0
+"329" "Azusa Pacific University satellite campus" 0 0
+"330" "Norwalk " 0 0
+"331" "Cerritos College" 0 0
+"332" "Oakland " 0 0
+"333" "Lincoln University" 0 0
+"334" "Oceanside " 0 0
+"335" "Mira Costa College" 0 0
+"336" "Ontario " 0 0
+"337" "University of La Verne College of Law" 0 0
+"338" "Orange " 0 0
+"339" "Chapman University" 0 0
+"340" "Pacific West College of Law" 0 0
+"341" "Oxnard " 0 0
+"342" "Oxnard College; California Lutheran University" 0 0
+"343" "California State University" 0 0
+"344" "Northridge" 0 0
+"345" "ITT" 42 2110.25
+"346" "University of Phoenix" 0 0
+"347" "University of California" 0 0
+"348" "Santa Barbara" 0 0
+"349" "National University and Azusa Pacific University have satellite campuses " 0 0
+"350" "Palmdale " 0 0
+"351" "Chapman University satellite campus" 0 0
+"352" "University of Antelope Valley" 0 0
+"353" "University of La Verne satellite campus" 0 0
+"354" "Palo Alto " 0 0
+"355" "Stanford University" 0 0
+"356" "Pasadena " 0 0
+"357" "California Institute of Technology" 0 0
+"358" "Pasadena City College" 0 0
+"359" "Pacific Oaks College" 0 0
+"360" "Pleasant Hill " 0 0
+"361" "John F. Kennedy University" 0 0
+"362" "Pomona " 0 0
+"363" "Cal Poly Pomona" 0 0
+"364" "Western University of Health Sciences and formerly Pomona College" 0 0
+"365" "Rancho Cucamonga " 0 0
+"366" "Chaffey College and satellite campuses of the University of La Verne" 0 0
+"367" "Cambridge College" 0 0
+"368" "University of Redlands" 0 0
+"369" "Everest College" 0 0
+"370" "and University of Phoenix" 0 0
+"371" "Redding " 0 0
+"372" "Simpson University" 0 0
+"373" "National University" 0 0
+"374" "Shasta Bible College and Graduate School" 0 0
+"375" "California State University" 0 0
+"376" "Chico branch campus" 0 0
+"377" "Redlands " 0 0
+"378" "University of Redlands" 0 0
+"379" "Rialto" 0 0
+"380" "Richmond" 1 21.12
+"381" "Ridgecrest " 0 0
+"382" "Pinnacles School of Law" 0 0
+"383" "Riverside " 0 0
+"384" "University of California" 0 0
+"385" "Riverside" 0 0
+"386" "California Baptist University" 0 0
+"387" "La Sierra University" 0 0
+"388" "California Southern Law School" 0 0
+"389" "Rocklin " 0 0
+"390" "Sierra College" 0 0
+"391" "William Jessup University" 0 0
+"392" "Roseville " 0 0
+"393" "Brandman University extension campus " 0 0
+"394" "Sacramento :" 0 0
+"395" "East Sacramento " 0 0
+"396" "California State University" 0 0
+"397" "Sacramento" 0 0
+"398" "Lincoln Law School of Sacramento" 0 0
+"399" "Oak Park " 0 0
+"400" "University of the Pacific" 0 0
+"401" "McGeorge School of Law" 0 0
+"402" "Salinas " 0 0
+"403" "Hartnell College" 0 0
+"404" "San Bernardino " 0 0
+"405" "California State University" 0 0
+"406" "San Bernardino" 0 0
+"407" "American Sports University" 0 0
+"408" "San Diego " 0 0
+"409" "University of California" 0 0
+"410" "San Diego" 13 78.17
+"411" "San Diego State University" 0 0
+"412" "California Western School of Law" 0 0
+"413" "Thomas Jefferson School of Law" 0 0
+"414" "University of San Diego" 0 0
+"415" "Western Sierra Law School" 0 0
+"416" "San Francisco " 0 0
+"417" "University of California" 0 0
+"418" "San Francisco" 8 1212.21
+"419" "San Francisco State University" 0 0
+"420" "California State University" 0 0
+"421" "University of San Francisco" 0 0
+"422" "Golden Gate University" 0 0
+"423" "University of the Pacific Arthur A. Dugoni School of Dentistry" 0 0
+"424" "San Francisco Law School" 0 0
+"425" "University of California" 0 0
+"426" "Hastings College of the Law" 0 0
+"427" "San Jose " 0 0
+"428" "Lincoln Law School of San Jose" 0 0
+"429" "San Luis Obispo " 0 0
+"430" "California Polytechnic State University" 0 0
+"431" "University of San Luis Obispo School of Law" 0 0
+"432" "San Marcos " 0 0
+"433" "California State University San Marcos" 0 0
+"434" "University of St. Augustine for Health Sciences" 0 0
+"435" "Santa Ana " 0 0
+"436" "Trinity Law School" 0 0
+"437" "Santa Barbara " 0 0
+"438" "Fielding Graduate University" 0 0
+"439" "Santa Barbara City College" 0 0
+"440" "University of California" 0 0
+"441" "Santa Barbara" 0 0
+"442" "Westmont College" 0 0
+"443" "Santa Barbara College of Law" 0 0
+"444" "Southern California Institute of Law" 0 0
+"445" "Santa Clara " 0 0
+"446" "Santa Clara University" 0 0
+"447" "Santa Clarita " 0 0
+"448" "California Institute of the Arts" 0 0
+"449" "The Master's College" 0 0
+"450" "College of the Canyons" 0 0
+"451" "Santa Cruz " 0 0
+"452" "University of California" 0 0
+"453" "Santa Cruz" 0 0
+"454" "Santa Monica " 0 0
+"455" "Santa Monica College" 0 0
+"456" "Santa Rosa " 0 0
+"457" "Empire College" 0 0
+"458" "Seaside " 0 0
+"459" "Monterey College of Law" 0 0
+"460" "Simi Valley" 0 0
+"461" "Stanford " 0 0
+"462" "Stanford University" 0 0
+"463" "Stockton " 0 0
+"464" "University of the Pacific" 0 0
+"465" "Humphreys College-main campus" 0 0
+"466" "Sunnyvale" 0 0
+"467" "Temecula" 0 0
+"468" "Torrance" 0 0
+"469" "Thousand Oaks " 0 0
+"470" "California Lutheran University" 0 0
+"471" "Turlock " 0 0
+"472" "California State University" 0 0
+"473" "Stanislaus" 0 0
+"474" "Vallejo " 0 0
+"475" "Touro University California College of Osteopathic Medicine" 0 0
+"476" "Ventura " 0 0
+"477" "Santa Barbara College of Law" 0 0
+"478" "Southern California Institute of Law" 0 0
+"479" "Victorville" 0 0
+"480" "Visalia " 0 0
+"481" "Fresno State branch campus" 0 0
+"482" "Chapman University branch campus" 0 0
+"483" "Fresno Pacific University branch campus" 0 0
+"484" "Brandman University branch campus" 0 0
+"485" "San Joaquin Valley College" 0 0
+"486" "Westminster" 0 0
+"487" "West Covina" 0 0
+"488" "Whittier " 0 0
+"489" "Whittier College" 0 0
+"490" "Rio Hondo College" 0 0
+"491" "Colorado[edit]" 0 0
+"492" "Alamosa " 0 0
+"493" "Adams State College" 0 0
+"494" "Aurora " 0 0
+"495" "Columbia College–Aurora" 0 0
+"496" "Ecotech Institute" 0 0
+"497" "University of Colorado Denver at the Anschutz Medical Campus" 0 0
+"498" "Colorado Community College System" 0 0
+"499" "Boulder " 0 0
+"500" "University of Colorado at Boulder" 0 0
+"501" "Naropa University" 0 0
+"502" "Colorado Springs " 0 0
+"503" "United States Air Force Academy" 0 0
+"504" "University of Colorado Colorado Springs]]" 0 0
+"505" "Colorado College" 0 0
+"506" "Colorado Technical University" 0 0
+"507" "Denver " 0 0
+"508" "University of Colorado Denver" 0 0
+"509" "Metropolitan State University of Denver" 0 0
+"510" "University of Denver" 0 0
+"511" "Johnson & Wales University" 0 0
+"512" "Regis University" 0 0
+"513" "Durango " 0 0
+"514" "Fort Lewis College" 0 0
+"515" "Fort Collins " 0 0
+"516" "Colorado State University" 0 0
+"517" "Golden " 0 0
+"518" "Colorado School of Mines" 0 0
+"519" "Grand Junction " 0 0
+"520" "Colorado Mesa University" 0 0
+"521" "Greeley " 0 0
+"522" "University of Northern Colorado" 0 0
+"523" "Gunnison " 0 0
+"524" "Western State College" 0 0
+"525" "Lakewood " 0 0
+"526" "Colorado Christian University" 0 0
+"527" "Pueblo " 0 0
+"528" "Colorado State University–Pueblo" 0 0
+"529" "Connecticut[edit]" 0 0
+"530" "Bridgeport " 0 0
+"531" "St. Vincent's College" 0 0
+"532" "University of Bridgeport" 0 0
+"533" "Danbury " 0 0
+"534" "Western Connecticut State University" 0 0
+"535" "East Hartford " 0 0
+"536" "Goodwin College" 0 0
+"537" "Fairfield " 0 0
+"538" "Fairfield University" 0 0
+"539" "Sacred Heart University" 0 0
+"540" "Farmington " 0 0
+"541" "UConn Health" 0 0
+"542" "Hamden " 0 0
+"543" "Quinnipiac University" 0 0
+"544" "Hartford " 0 0
+"545" "Rensselaer at Hartford" 0 0
+"546" "Trinity College" 0 0
+"547" "University of Connecticut School of Law" 0 0
+"548" "Middletown " 0 0
+"549" "Wesleyan University" 0 0
+"550" "New Britain " 0 0
+"551" "Central Connecticut State University" 0 0
+"552" "New Haven " 0 0
+"553" "Yale University" 0 0
+"554" "University of New Haven" 0 0
+"555" "Southern Connecticut State University" 0 0
+"556" "Albertus Magnus College" 0 0
+"557" "Quinnipiac University" 0 0
+"558" "New London " 0 0
+"559" "Connecticut College" 0 0
+"560" "US Coast Guard Academy" 0 0
+"561" "Mitchell College" 0 0
+"562" "Southington " 0 0
+"563" "New England Baptist College" 0 0
+"564" "Stamford " 0 0
+"565" "University of Connecticut" 0 0
+"566" "University of Bridgeport and Sacred Heart University branch campuses" 0 0
+"567" "Storrs " 0 0
+"568" "University of Connecticut" 0 0
+"569" "Waterbury " 0 0
+"570" "Post University" 0 0
+"571" "University of Bridgeport " 0 0
+"572" "Regional Campus" 0 0
+"573" "University of Connecticut " 0 0
+"574" "Regional Campus / Downtown Waterbury" 0 0
+"575" "Western Connecticut State University " 0 0
+"576" "Regional Campus" 0 0
+"577" "Willimantic " 0 0
+"578" "Eastern Connecticut State University" 0 0
+"579" "West Hartford " 0 0
+"580" "University of Hartford" 0 0
+"581" "University of Saint Joseph" 0 0
+"582" "University of Connecticut Greater Hartford campus" 0 0
+"583" "West Haven " 0 0
+"584" "University of New Haven" 0 0
+"585" "Delaware[edit]" 0 0
+"586" "Dover " 0 0
+"587" "Delaware State University" 0 0
+"588" "Wesley College" 0 0
+"589" "Newark " 0 0
+"590" "University of Delaware" 0 0
+"591" "New Castle " 0 0
+"592" "Wilmington University" 0 0
+"593" "Wilmington " 0 0
+"594" "Delaware College of Art & Design" 0 0
+"595" "Drexel University – Wilmington Campus" 0 0
+"596" "Springfield College – Wilmington Campus" 0 0
+"597" "Widener University–Delaware Campus" 0 0
+"598" "District of Columbia[edit]" 0 0
+"599" "Washington" 9 347.86
+"600" "D.C. " 0 0
+"601" "Georgetown University" 0 0
+"602" "Howard University" 0 0
+"603" "American University" 0 0
+"604" "the Catholic University of America" 0 0
+"605" "Gallaudet University" 0 0
+"606" "George Washington University" 0 0
+"607" "Johns Hopkins University School of Advanced International Studies" 0 0
+"608" "Trinity Washington University" 0 0
+"609" "University of the District of Columbia" 0 0
+"610" "Graduate School USA" 0 0
+"611" "St. Paul's College" 0 0
+"612" "Institute of World Politics" 0 0
+"613" "Florida[edit]" 0 0
+"614" "Ave Maria " 0 0
+"615" "Ave Maria University" 0 0
+"616" "Boca Raton " 0 0
+"617" "Florida Atlantic University" 0 0
+"618" "Bradenton " 0 0
+"619" "Lake Erie College of Osteopathic Medicine branch campus" 0 0
+"620" "Brandon" 4 147.27
+"621" "Cape Coral " 0 0
+"622" "Florida Gulf Coast University satellite facility" 0 0
+"623" "Coral Gables " 0 0
+"624" "University of Miami" 0 0
+"625" "Coral Springs " 0 0
+"626" "Barry University" 0 0
+"627" "Nova Southeastern University and Broward College" 0 0
+"628" "Davie " 0 0
+"629" "Nova Southeastern University" 0 0
+"630" "Daytona Beach " 0 0
+"631" "Embry–Riddle Aeronautical University" 0 0
+"632" "DeLand " 0 0
+"633" "Stetson University" 0 0
+"634" "Estero " 0 0
+"635" "Florida Gulf Coast University" 0 0
+"636" "Fort Lauderdale " 0 0
+"637" "Broward College BC " 0 0
+"638" "Willis Holcombe Downtown Center" 0 0
+"639" "City College" 0 0
+"640" "Florida Atlantic University FAU " 0 0
+"641" "satellite campus" 0 0
+"642" "Florida International University FIU " 0 0
+"643" "satellite campus" 0 0
+"644" "Keiser University" 0 0
+"645" "Nova Southeastern University NSU " 0 0
+"646" "satellite campus" 0 0
+"647" "The Art Institute of Fort Lauderdale" 0 0
+"648" "University of Phoenix" 0 0
+"649" "Cypress Creek Learning Center" 0 0
+"650" "Jersey College" 0 0
+"651" "Fort Myers " 0 0
+"652" "Florida Gulf Coast University" 0 0
+"653" "Gainesville " 0 0
+"654" "University of Florida" 0 0
+"655" "Santa Fe College" 0 0
+"656" "Gulfport " 0 0
+"657" "Stetson University College of Law" 0 0
+"658" "St. Petersburg College" 0 0
+"659" "University of South Florida branch campus" 0 0
+"660" "Hialeah " 0 0
+"661" "College of Business and Technology" 0 0
+"662" "Florida National University" 0 0
+"663" "Hollywood" 1 428
+"664" "Jacksonville " 0 0
+"665" "University of North Florida" 0 0
+"666" "Jacksonville University" 0 0
+"667" "Florida State College at Jacksonville" 0 0
+"668" "University of Florida second campus" 0 0
+"669" "Florida Coastal School of Law and Jones College" 0 0
+"670" "Kendall " 0 0
+"671" "Keiser College" 0 0
+"672" "Miami-Dade College " 0 0
+"673" "Kendall Campus" 0 0
+"674" "Nova Southeastern University " 0 0
+"675" "Miami Student Educational Center" 0 0
+"676" "College of Business and Technology " 0 0
+"677" "Kendall Campus" 0 0
+"678" "Lakeland " 0 0
+"679" "Florida Polytechnic University" 0 0
+"680" "Miami " 0 0
+"681" "Florida International University" 0 0
+"682" "Miami Gardens " 0 0
+"683" "St. Thomas University" 0 0
+"684" "Florida Memorial University" 0 0
+"685" "CBT College" 0 0
+"686" "Miramar " 0 0
+"687" "Broward College " 0 0
+"688" "Miramar Town Center" 0 0
+"689" "Broward College " 0 0
+"690" "Miramar West Center" 0 0
+"691" "Florida International University " 0 0
+"692" "FIU " 0 0
+"693" "Miramar West Center" 0 0
+"694" "Nova Southeastern University " 0 0
+"695" "Miramar Campus" 0 0
+"696" "Panama City " 0 0
+"697" "Gulf Coast State College" 0 0
+"698" "Pembroke Pines " 0 0
+"699" "The Broward-Pines Center regional campus of Barry University" 0 0
+"700" "The Broward-Pines Center regional campus of Broward College" 0 0
+"701" "The Broward-Pines Center regional campus of Florida International University" 0 0
+"702" "The South regional campus of Broward College" 0 0
+"703" "Keiser University Pembroke Pines Campus" 0 0
+"704" "Pensacola " 0 0
+"705" "University of West Florida" 0 0
+"706" "Port St. Lucie " 0 0
+"707" "Indian River State College" 0 0
+"708" "Barry University" 0 0
+"709" "and Keiser University" 0 0
+"710" "Orlando " 0 0
+"711" "University of Central Florida" 0 0
+"712" "Sarasota " 0 0
+"713" "New College of Florida" 0 0
+"714" "Ringling College of Art and Design" 0 0
+"715" "State College of Florida" 0 0
+"716" "Manatee-Sarasota" 0 0
+"717" "University of South Florida Sarasota-Manatee" 0 0
+"718" "St. Augustine " 0 0
+"719" "Flagler College" 0 0
+"720" "St. Leo " 0 0
+"721" "St. Leo University" 0 0
+"722" "St. Petersburg " 0 0
+"723" "University of South Florida St. Petersburg" 0 0
+"724" "Eckerd College" 0 0
+"725" "St. Petersburg College" 0 0
+"726" "Sunrise" 1 131.67
+"727" "Tallahassee " 0 0
+"728" "Florida State University" 0 0
+"729" "Florida A&M University" 0 0
+"730" "Tampa " 0 0
+"731" "University of South Florida" 0 0
+"732" "West Palm Beach " 0 0
+"733" "Palm Beach Atlantic University" 0 0
+"734" "Keiser University" 0 0
+"735" "Georgia[edit]" 0 0
+"736" "Albany " 0 0
+"737" "Albany State University" 0 0
+"738" "Alpharetta " 0 0
+"739" "Georgia State University" 0 0
+"740" "Gwinnett Technical College" 0 0
+"741" "Reinhardt University" 0 0
+"742" "Athens " 0 0
+"743" "University of Georgia" 0 0
+"744" "Athens Technical College" 0 0
+"745" "Atlanta " 0 0
+"746" "Georgia Tech" 0 0
+"747" "Clark Atlanta University" 0 0
+"748" "Morehouse College" 0 0
+"749" "Spelman College" 0 0
+"750" "Art Institute of Atlanta" 0 0
+"751" "Mercer University:" 0 0
+"752" "Downtown " 0 0
+"753" "Georgia State University" 0 0
+"754" "Druid Hills " 0 0
+"755" "Emory University" 0 0
+"756" "Midtown " 0 0
+"757" "John Marshall Law School" 0 0
+"758" "Augusta " 0 0
+"759" "Augusta Technical College" 0 0
+"760" "Augusta University" 0 0
+"761" "Paine College" 0 0
+"762" "East Georgia State College" 0 0
+"763" "Blue Ridge " 0 0
+"764" "University of North Georgia" 0 0
+"765" "Brunswick " 0 0
+"766" "College of Coastal Georgia" 0 0
+"767" "Carrollton " 0 0
+"768" "University of West Georgia" 0 0
+"769" "Columbus " 0 0
+"770" "Columbus State University" 0 0
+"771" "Columbus Technical College" 0 0
+"772" "Cumming " 0 0
+"773" "University of North Georgia" 0 0
+"774" "Dahlonega " 0 0
+"775" "University of North Georgia" 0 0
+"776" "Demorest " 0 0
+"777" "Piedmont College" 0 0
+"778" "Fort Valley " 0 0
+"779" "Fort Valley State University" 0 0
+"780" "Gainesville " 0 0
+"781" "University of North Georgia Gainesville Campus" 0 0
+"782" "Brenau University" 0 0
+"783" "Glennville " 0 0
+"784" "Southeastern Technical College" 0 0
+"785" "Kennesaw " 0 0
+"786" "Kennesaw State University" 0 0
+"787" "Lawrenceville " 0 0
+"788" "Georgia Gwinnett College" 0 0
+"789" "Gwinnett Technical College" 0 0
+"790" "Madison " 0 0
+"791" "Georgia Military College Madison Campus" 0 0
+"792" "Macon " 0 0
+"793" "Mercer University" 0 0
+"794" "Middle Georgia State University" 0 0
+"795" "Wesleyan College" 0 0
+"796" "Central Georgia Technical College" 0 0
+"797" "Fort Valley State University - satellite campus" 0 0
+"798" "Georgia College & State University - satellite campus" 0 0
+"799" "Milledgeville " 0 0
+"800" "Georgia College & State University" 0 0
+"801" "Georgia Military College" 0 0
+"802" "Monroe" 34 1261.65
+"803" "Mount Vernon " 0 0
+"804" "Brewton-Parker College" 0 0
+"805" "Oxford " 0 0
+"806" "Oxford College" 0 0
+"807" "Rome " 0 0
+"808" "Berry College" 0 0
+"809" "Shorter University" 0 0
+"810" "Savannah " 0 0
+"811" "Armstrong Atlantic State University" 0 0
+"812" "Savannah State University" 0 0
+"813" "Savannah College of Art and Design" 0 0
+"814" "Savannah Law School" 0 0
+"815" "Statesboro " 0 0
+"816" "Georgia Southern University" 0 0
+"817" "East Georgia State College" 0 0
+"818" "Swainsboro " 0 0
+"819" "East Georgia State College" 0 0
+"820" "Southeastern Technical College" 0 0
+"821" "Valdosta " 0 0
+"822" "Valdosta State University" 0 0
+"823" "Vidalia " 0 0
+"824" "Southeastern Technical College" 0 0
+"825" "Waleska " 0 0
+"826" "Reinhardt College" 0 0
+"827" "Watkinsville " 0 0
+"828" "University of North Georgia" 0 0
+"829" "Young Harris " 0 0
+"830" "Young Harris College" 0 0
+"831" "Hawaii[edit]" 0 0
+"832" "Honolulu " 0 0
+"833" "University of Hawaii at Manoa" 0 0
+"834" "Laie " 0 0
+"835" "Brigham Young University-Hawai'i" 0 0
+"836" "Idaho[edit]" 0 0
+"837" "Boise " 0 0
+"838" "Boise State University" 0 0
+"839" "University of Idaho - satellite campus" 0 0
+"840" "Idaho State University - satellite campus" 0 0
+"841" "Concordia University School of Law" 0 0
+"842" "Caldwell " 0 0
+"843" "College of Idaho" 0 0
+"844" "Lewiston " 0 0
+"845" "Lewis-Clark State College" 0 0
+"846" "Moscow " 0 0
+"847" "University of Idaho" 0 0
+"848" "Nampa " 0 0
+"849" "Northwest Nazarene University" 0 0
+"850" "Pocatello " 0 0
+"851" "Idaho State University" 0 0
+"852" "Rexburg " 0 0
+"853" "BYU-Idaho" 0 0
+"854" "Illinois[edit]" 0 0
+"855" "Alton " 0 0
+"856" "Southern Illinois University School of Dental Medicine" 0 0
+"857" "Aurora" 0 0
+"858" "Carbondale " 0 0
+"859" "Southern Illinois University Carbondale" 0 0
+"860" "Champaign–Urbana " 0 0
+"861" "University of Illinois" 0 0
+"862" "Charleston " 0 0
+"863" "Eastern Illinois University" 0 0
+"864" "Chicago :" 0 0
+"865" "North Park " 0 0
+"866" "Northeastern Illinois University" 0 0
+"867" "Roseland " 0 0
+"868" "Chicago State University" 0 0
+"869" "University Village/Little Italy " 0 0
+"870" "University of Illinois at Chicago" 0 0
+"871" "Deerfield " 0 0
+"872" "Trinity International University" 0 0
+"873" "DeKalb " 0 0
+"874" "Northern Illinois University" 0 0
+"875" "Downers Grove " 0 0
+"876" "Midwestern University" 0 0
+"877" "Edwardsville " 0 0
+"878" "Southern Illinois University Edwardsville" 0 0
+"879" "Elgin " 0 0
+"880" "Judson University" 0 0
+"881" "Evanston " 0 0
+"882" "Northwestern University" 0 0
+"883" "Joliet " 0 0
+"884" "University of St. Francis" 0 0
+"885" "Lebanon " 0 0
+"886" "McKendree University" 0 0
+"887" "Macomb " 0 0
+"888" "Western Illinois University" 0 0
+"889" "Moline " 0 0
+"890" "Western Illinois University-Quad Cities" 0 0
+"891" "Naperville " 0 0
+"892" "North Central College" 0 0
+"893" "Northern Illinois University satellite campus" 0 0
+"894" "DePaul University satellite campus" 0 0
+"895" "College of DuPage Naperville Regional Center" 0 0
+"896" "Governors State University satellite campus" 0 0
+"897" "Northwestern College Naperville campus" 0 0
+"898" "University of Illinois at Urbana–Champaign Business & Industry Services campus" 0 0
+"899" "Normal " 0 0
+"900" "Illinois State University" 0 0
+"901" "Peoria " 0 0
+"902" "Bradley University" 0 0
+"903" "River Forest " 0 0
+"904" "Dominican University" 0 0
+"905" "Concordia University" 0 0
+"906" "Rock Island " 0 0
+"907" "Augustana College" 0 0
+"908" "Rockford " 0 0
+"909" "Rockford University" 0 0
+"910" "Springfield " 0 0
+"911" "University of Illinois at Springfield" 0 0
+"912" "University Park " 0 0
+"913" "Governors State University" 0 0
+"914" "Indiana[edit]" 0 0
+"915" "Angola " 0 0
+"916" "Trine University" 0 0
+"917" "Bloomington " 0 0
+"918" "Indiana University Bloomington" 0 0
+"919" "Columbus " 0 0
+"920" "Indiana University – Purdue University Columbus" 0 0
+"921" "Crawfordsville " 0 0
+"922" "Wabash College" 0 0
+"923" "Fort Wayne " 0 0
+"924" "Indiana University – Purdue University Fort Wayne" 0 0
+"925" "Gary " 0 0
+"926" "Indiana University Northwest" 0 0
+"927" "Greencastle " 0 0
+"928" "DePauw University" 0 0
+"929" "Hanover " 0 0
+"930" "Hanover College" 0 0
+"931" "Indianapolis " 0 0
+"932" "Indiana University – Purdue University Indianapolis" 0 0
+"933" "Kokomo " 0 0
+"934" "Indiana University Kokomo" 0 0
+"935" "Marion " 0 0
+"936" "Indiana Wesleyan University" 0 0
+"937" "Muncie " 0 0
+"938" "Ball State University" 0 0
+"939" "New Albany " 0 0
+"940" "Indiana University Southeast" 0 0
+"941" "Notre Dame " 0 0
+"942" "University of Notre Dame" 0 0
+"943" "Saint Mary's College" 0 0
+"944" "and Holy Cross College" 0 0
+"945" "Oakland City " 0 0
+"946" "Oakland City University" 0 0
+"947" "Richmond " 0 0
+"948" "Earlham College" 0 0
+"949" "Indiana University East" 0 0
+"950" "South Bend " 0 0
+"951" "University of Notre Dame" 0 0
+"952" "Indiana University South Bend" 0 0
+"953" "Terre Haute " 0 0
+"954" "Indiana State University" 0 0
+"955" "Rose-Hulman Institute of Technology" 0 0
+"956" "Upland " 0 0
+"957" "Taylor University" 0 0
+"958" "Valparaiso " 0 0
+"959" "Valparaiso University" 0 0
+"960" "West Lafayette " 0 0
+"961" "Purdue University" 0 0
+"962" "Iowa[edit]" 0 0
+"963" "Ames " 0 0
+"964" "Iowa State University" 0 0
+"965" "Bettendorf " 0 0
+"966" "Upper Iowa University – satellite campus" 0 0
+"967" "Cedar Falls " 0 0
+"968" "University of Northern Iowa" 0 0
+"969" "Cedar Rapids " 0 0
+"970" "Coe College" 0 0
+"971" "Davenport " 0 0
+"972" "Saint Ambrose University" 0 0
+"973" "Hamilton Technical College" 0 0
+"974" "Decorah " 0 0
+"975" "Luther College" 0 0
+"976" "Des Moines " 0 0
+"977" "Drake University" 0 0
+"978" "Grand View University" 0 0
+"979" "Mercy College of Health Sciences" 0 0
+"980" "University of Iowa two satellite facilities" 0 0
+"981" "AIB College of Business" 0 0
+"982" "Des Moines University" 0 0
+"983" "Fayette " 0 0
+"984" "Upper Iowa University" 0 0
+"985" "Grinnell " 0 0
+"986" "Grinnell College" 0 0
+"987" "Indianola " 0 0
+"988" "Simpson College" 0 0
+"989" "Iowa City " 0 0
+"990" "University of Iowa" 0 0
+"991" "Lamoni " 0 0
+"992" "Graceland University" 0 0
+"993" "Mount Vernon " 0 0
+"994" "Cornell College" 0 0
+"995" "Orange City " 0 0
+"996" "Northwestern College" 0 0
+"997" "Oskaloosa " 0 0
+"998" "William Penn University" 0 0
+"999" "Sioux Center " 0 0
+"1000" "Dordt College" 0 0
+"1001" "Storm Lake " 0 0
+"1002" "Buena Vista University" 0 0
+"1003" "Waverly " 0 0
+"1004" "Wartburg College" 0 0
+"1005" "Kansas[edit]" 0 0
+"1006" "Baldwin City " 0 0
+"1007" "Baker University" 0 0
+"1008" "Emporia " 0 0
+"1009" "Emporia State University" 0 0
+"1010" "Hays " 0 0
+"1011" "Fort Hays State University" 0 0
+"1012" "Kansas City " 0 0
+"1013" "Donnelly College" 0 0
+"1014" "Kansas Christian College" 0 0
+"1015" "University of Kansas Medical Center " 0 0
+"1016" "home of KU's Schools of Medicine" 0 0
+"1017" "Nursing and Allied Health" 0 0
+"1018" "Lawrence " 0 0
+"1019" "University of Kansas" 0 0
+"1020" "Haskell Indian Nations University" 0 0
+"1021" "Manhattan " 0 0
+"1022" "Kansas State University" 0 0
+"1023" "Manhattan Christian College" 0 0
+"1024" "Olathe " 0 0
+"1025" "MidAmerica Nazarene University" 0 0
+"1026" "Overland Park " 0 0
+"1027" "Ottawa University adult campus" 0 0
+"1028" "University of Kansas-Edwards Campus" 0 0
+"1029" "Baker University Overland Park Campus" 0 0
+"1030" "Emporia State University - Overland Park Campus " 0 0
+"1031" "Metro Learning Center" 0 0
+"1032" "Kansas Christian College" 0 0
+"1033" "Rasmussen College" 0 0
+"1034" "Pittsburg " 0 0
+"1035" "Pittsburg State University" 0 0
+"1036" "Topeka " 0 0
+"1037" "Washburn University" 0 0
+"1038" "Friends University" 0 0
+"1039" "Washburn Institute of Technology " 0 0
+"1040" "Formerly Kaw Area Technical School" 0 0
+"1041" "Baker University School of Nursing" 0 0
+"1042" "Wichita " 0 0
+"1043" "Wichita State University " 0 0
+"1044" "WSU" 0 0
+"1045" "Friends University - main campus" 0 0
+"1046" "Newman University" 0 0
+"1047" "University of Kansas School of Medicine - Wichita campus" 0 0
+"1048" "Kentucky[edit]" 0 0
+"1049" "Barbourville " 0 0
+"1050" "Union College" 0 0
+"1051" "Berea " 0 0
+"1052" "Berea College" 0 0
+"1053" "Bowling Green " 0 0
+"1054" "Western Kentucky University" 0 0
+"1055" "Campbellsville " 0 0
+"1056" "Campbellsville University" 0 0
+"1057" "Columbia " 0 0
+"1058" "Lindsey Wilson College" 0 0
+"1059" "Crestview Hills " 0 0
+"1060" "Thomas More University" 0 0
+"1061" "Danville " 0 0
+"1062" "Centre College" 0 0
+"1063" "Bluegrass Community and Technical College" 0 0
+"1064" "Eastern Kentucky University" 0 0
+"1065" "Midway University" 0 0
+"1066" "American National University" 0 0
+"1067" "Frankfort " 0 0
+"1068" "Kentucky State University" 0 0
+"1069" "Georgetown " 0 0
+"1070" "Georgetown College" 0 0
+"1071" "Grayson " 0 0
+"1072" "Kentucky Christian University" 0 0
+"1073" "Highland Heights " 0 0
+"1074" "Northern Kentucky University" 0 0
+"1075" "Lexington " 0 0
+"1076" "University of Kentucky" 0 0
+"1077" "Transylvania University" 0 0
+"1078" "Louisville " 0 0
+"1079" "University of Louisville" 0 0
+"1080" "Bellarmine University" 0 0
+"1081" "Simmons College of Kentucky" 0 0
+"1082" "Spalding University" 0 0
+"1083" "Sullivan University" 0 0
+"1084" "Midway " 0 0
+"1085" "Midway University" 0 0
+"1086" "Morehead " 0 0
+"1087" "Morehead State University" 0 0
+"1088" "Murray " 0 0
+"1089" "Murray State University" 0 0
+"1090" "Owensboro " 0 0
+"1091" "Brescia University" 0 0
+"1092" "Kentucky Wesleyan College" 0 0
+"1093" "Western Kentucky University-Owensboro" 0 0
+"1094" "Pikeville " 0 0
+"1095" "University of Pikeville" 0 0
+"1096" "Richmond " 0 0
+"1097" "Eastern Kentucky University" 0 0
+"1098" "Williamsburg " 0 0
+"1099" "University of the Cumberlands" 0 0
+"1100" "Wilmore " 0 0
+"1101" "Asbury University" 0 0
+"1102" "Asbury Theological Seminary" 0 0
+"1103" "Louisiana[edit]" 0 0
+"1104" "Baton Rouge " 0 0
+"1105" "Louisiana State University" 0 0
+"1106" "Southern University and A&M College" 0 0
+"1107" "Southern University Law Center" 0 0
+"1108" "Grambling " 0 0
+"1109" "Grambling State University" 0 0
+"1110" "Hammond " 0 0
+"1111" "Southeastern Louisiana University" 0 0
+"1112" "Lafayette " 0 0
+"1113" "University of Louisiana at Lafayette" 0 0
+"1114" "Metairie" 1 19.05
+"1115" "Monroe " 0 0
+"1116" "University of Louisiana at Monroe" 0 0
+"1117" "Natchitoches " 0 0
+"1118" "Northwestern State University" 0 0
+"1119" "New Orleans " 0 0
+"1120" "Tulane University" 0 0
+"1121" "Loyola University New Orleans" 0 0
+"1122" "University of New Orleans" 0 0
+"1123" "Xavier University of Louisiana" 0 0
+"1124" "Southern University at New Orleans" 0 0
+"1125" "Dillard University" 0 0
+"1126" "Louisiana State University Health Sciences Center New Orleans" 0 0
+"1127" "Our Lady of Holy Cross College" 0 0
+"1128" "Delgado Community College" 0 0
+"1129" "William Carey College School of Nursing" 0 0
+"1130" "Herzing College" 0 0
+"1131" "Ruston " 0 0
+"1132" "Louisiana Tech University" 0 0
+"1133" "Shreveport " 0 0
+"1134" "Southern University at Shreveport" 0 0
+"1135" "Thibodaux " 0 0
+"1136" "Nicholls State University" 0 0
+"1137" "Maine[edit]" 0 0
+"1138" "Augusta " 0 0
+"1139" "University of Maine at Augusta" 0 0
+"1140" "Bangor " 0 0
+"1141" "University of Maine" 0 0
+"1142" "Bar Harbor " 0 0
+"1143" "College of the Atlantic" 0 0
+"1144" "Biddeford " 0 0
+"1145" "University of New England" 0 0
+"1146" "Brunswick " 0 0
+"1147" "Bowdoin College" 0 0
+"1148" "Farmington " 0 0
+"1149" "University of Maine at Farmington" 0 0
+"1150" "Fort Kent " 0 0
+"1151" "University of Maine at Fort Kent" 0 0
+"1152" "Gorham " 0 0
+"1153" "University of Southern Maine" 0 0
+"1154" "Lewiston " 0 0
+"1155" "Bates College" 0 0
+"1156" "Machias " 0 0
+"1157" "University of Maine at Machias" 0 0
+"1158" "Orono " 0 0
+"1159" "University of Maine" 0 0
+"1160" "Portland " 0 0
+"1161" "Maine College of Art" 0 0
+"1162" "University of Maine School of Law" 0 0
+"1163" "University of New England " 0 0
+"1164" "formerly Westbrook College" 0 0
+"1165" "University of Southern Maine" 0 0
+"1166" "Presque Isle " 0 0
+"1167" "University of Maine at Presque Isle" 0 0
+"1168" "Waterville " 0 0
+"1169" "Thomas College" 0 0
+"1170" "Colby College" 0 0
+"1171" "Maryland[edit]" 0 0
+"1172" "Annapolis " 0 0
+"1173" "United States Naval Academy" 0 0
+"1174" "St. John's College" 0 0
+"1175" "Baltimore " 0 0
+"1176" "Johns Hopkins University" 0 0
+"1177" "Baltimore International College" 0 0
+"1178" "Loyola University Maryland" 0 0
+"1179" "Maryland Institute College of Art" 0 0
+"1180" "Notre Dame of Maryland University" 0 0
+"1181" "Sojourner–Douglass College" 0 0
+"1182" "Coppin State University" 0 0
+"1183" "Morgan State University" 0 0
+"1184" "University of Baltimore" 0 0
+"1185" "University of Maryland" 0 0
+"1186" "Baltimore" 0 0
+"1187" "Chestertown " 0 0
+"1188" "Washington College" 0 0
+"1189" "College Park " 0 0
+"1190" "University of Maryland" 0 0
+"1191" "College Park" 2 38.75
+"1192" "Columbia " 0 0
+"1193" "University of Phoenix" 0 0
+"1194" "Lincoln Technical Institute" 0 0
+"1195" "Loyola University Maryland" 0 0
+"1196" "University of Maryland" 0 0
+"1197" "Baltimore County" 0 0
+"1198" "Maryland University of Integrative Health" 0 0
+"1199" "and Johns Hopkins University" 0 0
+"1200" "Cumberland " 0 0
+"1201" "Allegany College of Maryland" 0 0
+"1202" "Emmitsburg " 0 0
+"1203" "Mount St. Mary's University" 0 0
+"1204" "Frostburg " 0 0
+"1205" "Frostburg State University" 0 0
+"1206" "Germantown " 0 0
+"1207" "Montgomery College branch campus" 0 0
+"1208" "Princess Anne " 0 0
+"1209" "University of Maryland Eastern Shore" 0 0
+"1210" "Salisbury " 0 0
+"1211" "Salisbury University" 0 0
+"1212" "Silver Spring " 0 0
+"1213" "Montgomery College Takoma Park/Silver Spring campus" 0 0
+"1214" "Howard University School of Continuing Education" 0 0
+"1215" "Takoma Park " 0 0
+"1216" "Washington Adventist University" 0 0
+"1217" "Montgomery College " 0 0
+"1218" "Takoma Park/Silver Spring Campus" 0 0
+"1219" "Towson " 0 0
+"1220" "Towson University" 0 0
+"1221" "Goucher College" 0 0
+"1222" "Westminster " 0 0
+"1223" "McDaniel College" 0 0
+"1224" "Massachusetts[edit]" 0 0
+"1225" "Boston " 0 0
+"1226" "Boston University" 0 0
+"1227" "Boston College" 0 0
+"1228" "Boston Conservatory" 0 0
+"1229" "New England Conservatory" 0 0
+"1230" "Brandeis University" 0 0
+"1231" "Northeastern University" 0 0
+"1232" "UMass Boston" 0 0
+"1233" "Emmanuel College" 0 0
+"1234" "Bunker Hill Community College" 0 0
+"1235" "Roxbury Community College" 0 0
+"1236" "Suffolk University" 0 0
+"1237" "Simmons College" 0 0
+"1238" "among many others" 0 0
+"1239" "Bridgewater " 0 0
+"1240" "Bridgewater State College" 0 0
+"1241" "Brookline " 0 0
+"1242" "Pine Manor College" 0 0
+"1243" "Hellenic College" 0 0
+"1244" "Newbury College" 0 0
+"1245" "parts of Boston University" 0 0
+"1246" "parts of Boston Collegepart of the Wheelock College campus" 0 0
+"1247" "Northeastern University's Parsons Field" 0 0
+"1248" "Boston Graduate School of Psychoanalysis" 0 0
+"1249" "Cambridge " 0 0
+"1250" "Harvard University" 0 0
+"1251" "Massachusetts Institute of Technology" 0 0
+"1252" "Lesley University" 0 0
+"1253" "Cambridge College" 0 0
+"1254" "Longy School of Music" 0 0
+"1255" "Chestnut Hill " 0 0
+"1256" "Boston College" 0 0
+"1257" "The Colleges of Worcester Consortium:" 0 0
+"1258" "Dudley " 0 0
+"1259" "Nichols College" 0 0
+"1260" "North Grafton " 0 0
+"1261" "Cummings School of Veterinary Medicine at Tufts University" 0 0
+"1262" "Paxton " 0 0
+"1263" "Anna Maria College" 0 0
+"1264" "Worcester " 0 0
+"1265" "Assumption" 0 0
+"1266" "Becker" 0 0
+"1267" "Clark University" 0 0
+"1268" "Holy Cross" 0 0
+"1269" "Mass. College of Pharmacy & Health Sciences" 0 0
+"1270" "Quinsigamond Community College" 0 0
+"1271" "UMass Medical School" 0 0
+"1272" "Worcester State University" 0 0
+"1273" "Worcester Polytechnic Institute" 0 0
+"1274" "Dartmouth " 0 0
+"1275" "University of Massachusetts Dartmouth" 0 0
+"1276" "Fitchburg " 0 0
+"1277" "Fitchburg State College" 0 0
+"1278" "The Five College Region of Western Massachusetts" 0 0
+"1279" "Amherst " 0 0
+"1280" "Amherst College" 0 0
+"1281" "Hampshire College" 0 0
+"1282" "University of Massachusetts Amherst" 0 0
+"1283" "Northampton " 0 0
+"1284" "Smith College" 0 0
+"1285" "South Hadley " 0 0
+"1286" "Mount Holyoke College" 0 0
+"1287" "Framingham " 0 0
+"1288" "Framingham State University" 0 0
+"1289" "Leicester " 0 0
+"1290" "Becker College" 0 0
+"1291" "Lowell " 0 0
+"1292" "University of Massachusetts Lowell" 0 0
+"1293" "Medford " 0 0
+"1294" "Tufts University" 0 0
+"1295" "Newton " 0 0
+"1296" "Boston College" 0 0
+"1297" "Boston College Law School" 0 0
+"1298" "Hebrew College" 0 0
+"1299" "Mount Ida College" 0 0
+"1300" "Lasell College" 0 0
+"1301" "William James College" 0 0
+"1302" "formerly Massachusetts School of Professional Psychology" 0 0
+"1303" "North Adams " 0 0
+"1304" "Massachusetts College of Liberal Arts" 0 0
+"1305" "Quincy " 0 0
+"1306" "Eastern Nazarene College" 0 0
+"1307" "Somerville " 0 0
+"1308" "Tufts University parts of the main campus" 0 0
+"1309" "Springfield " 0 0
+"1310" "American International College" 0 0
+"1311" "Springfield College" 0 0
+"1312" "Western New England College" 0 0
+"1313" "Waltham " 0 0
+"1314" "Bentley University" 0 0
+"1315" "Brandeis University" 0 0
+"1316" "Wellesley " 0 0
+"1317" "Wellesley College" 0 0
+"1318" "Westfield " 0 0
+"1319" "Westfield State University" 0 0
+"1320" "Williamstown " 0 0
+"1321" "Williams College" 0 0
+"1322" "Michigan[edit]" 0 0
+"1323" "Adrian " 0 0
+"1324" "Adrian College" 0 0
+"1325" "Siena Heights University" 0 0
+"1326" "Albion " 0 0
+"1327" "Albion College" 0 0
+"1328" "Allendale " 0 0
+"1329" "Grand Valley State University" 0 0
+"1330" "Alma " 0 0
+"1331" "Alma College" 0 0
+"1332" "Ann Arbor " 0 0
+"1333" "Concordia University" 0 0
+"1334" "Cleary University" 0 0
+"1335" "University of Michigan" 0 0
+"1336" "Berrien Springs " 0 0
+"1337" "Andrews University" 0 0
+"1338" "Big Rapids " 0 0
+"1339" "Ferris State University" 0 0
+"1340" "Dearborn " 0 0
+"1341" "University of Michigan–Dearborn" 0 0
+"1342" "Henry Ford College" 0 0
+"1343" "Concordia University Dearborn Center" 0 0
+"1344" "Central Michigan University" 0 0
+"1345" "Detroit :" 0 0
+"1346" "Boston–Edison Historic District " 0 0
+"1347" "Sacred Heart Major Seminary" 0 0
+"1348" "Downtown " 0 0
+"1349" "University of Detroit Mercy School of Law" 0 0
+"1350" "Fitzgerald " 0 0
+"1351" "Marygrove College" 0 0
+"1352" "Midtown " 0 0
+"1353" "Wayne State University" 0 0
+"1354" "University District " 0 0
+"1355" "University of Detroit Mercy" 0 0
+"1356" "East Lansing " 0 0
+"1357" "Michigan State University" 0 0
+"1358" "Flint " 0 0
+"1359" "Kettering University" 0 0
+"1360" "University of Michigan-Flint" 0 0
+"1361" "Genoa Township " 0 0
+"1362" "Cleary University main campus" 0 0
+"1363" "Grand Rapids " 0 0
+"1364" "Aquinas College" 0 0
+"1365" "Calvin College" 0 0
+"1366" "Cornerstone University" 0 0
+"1367" "Kuyper College" 0 0
+"1368" "Thomas M. Cooley Law School satellite campus" 0 0
+"1369" "Northwood Universitysatellite campus" 0 0
+"1370" "Grand Valley State University satellite campus" 0 0
+"1371" "Ferris State University" 0 0
+"1372" "Western Michigan University satellite campus" 0 0
+"1373" "Grand Rapids Campus of the Michigan State University College of Human Medicine" 0 0
+"1374" "Hillsdale " 0 0
+"1375" "Hillsdale College" 0 0
+"1376" "Holland " 0 0
+"1377" "Hope College" 0 0
+"1378" "Houghton " 0 0
+"1379" "Michigan Technological University" 0 0
+"1380" "Kalamazoo " 0 0
+"1381" "Western Michigan University" 0 0
+"1382" "Kalamazoo College" 0 0
+"1383" "Lansing " 0 0
+"1384" "Western Michigan University Cooley Law School" 0 0
+"1385" "Marquette " 0 0
+"1386" "Northern Michigan University" 0 0
+"1387" "Midland " 0 0
+"1388" "Northwood University" 0 0
+"1389" "Mount Pleasant " 0 0
+"1390" "Central Michigan University" 0 0
+"1391" "Olivet " 0 0
+"1392" "Olivet College" 0 0
+"1393" "Saginaw " 0 0
+"1394" "Saginaw Valley State University" 0 0
+"1395" "Sault Ste. Marie " 0 0
+"1396" "Lake Superior State University" 0 0
+"1397" "Spring Arbor " 0 0
+"1398" "Spring Arbor University" 0 0
+"1399" "Sterling Heights" 0 0
+"1400" "Ypsilanti " 0 0
+"1401" "Eastern Michigan University" 0 0
+"1402" "Warren " 0 0
+"1403" "Davenport University satellite campus" 0 0
+"1404" "Warren Center for Central Michigan University" 0 0
+"1405" "Wayne State University's Advanced Technology Education Center" 0 0
+"1406" "Minnesota[edit]" 0 0
+"1407" "Bemidji " 0 0
+"1408" "Bemidji State University" 0 0
+"1409" "Crookston " 0 0
+"1410" "University of Minnesota Crookston" 0 0
+"1411" "Duluth " 0 0
+"1412" "University of Minnesota Duluth" 0 0
+"1413" "Lake Superior College" 0 0
+"1414" "The College of St. Scholastica" 0 0
+"1415" "University of Wisconsin–Superior" 0 0
+"1416" "Duluth Business University" 0 0
+"1417" "Faribault " 0 0
+"1418" "South Central College" 0 0
+"1419" "Mankato " 0 0
+"1420" "Minnesota State University" 0 0
+"1421" "Mankato" 0 0
+"1422" "Marshall " 0 0
+"1423" "Southwest Minnesota State University" 0 0
+"1424" "Minneapolis " 0 0
+"1425" "University of Minnesota" 0 0
+"1426" "Augsburg University" 0 0
+"1427" "Minneapolis College of Art and Design" 0 0
+"1428" "North Central University" 0 0
+"1429" "Minneapolis Community and Technical College" 0 0
+"1430" "Dunwoody College of Technology" 0 0
+"1431" "Globe University/Minnesota School of Business" 0 0
+"1432" "St. Mary's University of Minnesota" 0 0
+"1433" "Capella University" 0 0
+"1434" "Walden University" 0 0
+"1435" "Metropolitan State University" 0 0
+"1436" "University of St. Thomas" 0 0
+"1437" "Moorhead " 0 0
+"1438" "Minnesota State University" 0 0
+"1439" "Moorhead" 0 0
+"1440" "Concordia College" 0 0
+"1441" "Morris " 0 0
+"1442" "University of Minnesota Morris" 0 0
+"1443" "Northfield " 0 0
+"1444" "Carleton College" 0 0
+"1445" "St. Olaf College" 0 0
+"1446" "North Mankato " 0 0
+"1447" "South Central College" 0 0
+"1448" "Pine City " 0 0
+"1449" "Pine Technical and Community College" 0 0
+"1450" "Rochester " 0 0
+"1451" "Mayo Medical School" 0 0
+"1452" "St. Cloud " 0 0
+"1453" "St. Cloud State University" 0 0
+"1454" "The College of St. Scholastica" 0 0
+"1455" "St. Joseph " 0 0
+"1456" "College of Saint Benedict" 0 0
+"1457" "Saint Paul " 0 0
+"1458" "Saint Catherine University" 0 0
+"1459" "Concordia University" 0 0
+"1460" "Hamline University" 0 0
+"1461" "Macalester College" 0 0
+"1462" "University of St. Thomas" 0 0
+"1463" "Metropolitan State University" 0 0
+"1464" "Saint Paul College" 0 0
+"1465" "Mitchell Hamline School of Law" 0 0
+"1466" "St. Peter " 0 0
+"1467" "Gustavus Adolphus College" 0 0
+"1468" "Winona " 0 0
+"1469" "Winona State University" 0 0
+"1470" "St. Mary's University of Minnesota" 0 0
+"1471" "Mississippi[edit]" 0 0
+"1472" "Blue Mountain " 0 0
+"1473" "Blue Mountain College" 0 0
+"1474" "Cleveland " 0 0
+"1475" "Delta State University" 0 0
+"1476" "Clinton " 0 0
+"1477" "Mississippi College" 0 0
+"1478" "Columbus " 0 0
+"1479" "Mississippi University for Women" 0 0
+"1480" "Hattiesburg " 0 0
+"1481" "University of Southern Mississippi" 0 0
+"1482" "Holly Springs " 0 0
+"1483" "Rust College" 0 0
+"1484" "Itta Bena " 0 0
+"1485" "Mississippi Valley State University" 0 0
+"1486" "Jackson " 0 0
+"1487" "Jackson State University" 0 0
+"1488" "Millsaps College" 0 0
+"1489" "Belhaven University" 0 0
+"1490" "Mississippi College School of Law" 0 0
+"1491" "Laurel " 0 0
+"1492" "Southeastern Baptist College" 0 0
+"1493" "Oxford " 0 0
+"1494" "University of Mississippi" 0 0
+"1495" "Southaven " 0 0
+"1496" "University of Mississippi" 0 0
+"1497" "Northwest Mississippi Community College" 0 0
+"1498" "Starkville " 0 0
+"1499" "Mississippi State University" 0 0
+"1500" "Tougaloo " 0 0
+"1501" "Tougaloo College" 0 0
+"1502" "Missouri[edit]" 0 0
+"1503" "Bolivar " 0 0
+"1504" "Southwest Baptist University" 0 0
+"1505" "Cape Girardeau " 0 0
+"1506" "Southeast Missouri State University" 0 0
+"1507" "Columbia " 0 0
+"1508" "University of Missouri" 0 0
+"1509" "Stephens College" 0 0
+"1510" "Columbia College" 0 0
+"1511" "Fayette " 0 0
+"1512" "Central Methodist University" 0 0
+"1513" "Fulton " 0 0
+"1514" "Westminster College" 0 0
+"1515" "William Woods University" 0 0
+"1516" "Kirksville " 0 0
+"1517" "Truman State University" 0 0
+"1518" "A. T. Still University" 0 0
+"1519" "Maryville " 0 0
+"1520" "Northwest Missouri State University" 0 0
+"1521" "Rolla " 0 0
+"1522" "Missouri University of Science and Technology" 0 0
+"1523" "Warrensburg " 0 0
+"1524" "University of Central Missouri" 0 0
+"1525" "Montana[edit]" 0 0
+"1526" "Billings " 0 0
+"1527" "Montana State University Billings" 0 0
+"1528" "Rocky Mountain College" 0 0
+"1529" "Yellowstone Baptist College" 0 0
+"1530" "Bozeman " 0 0
+"1531" "Montana State University" 0 0
+"1532" "Butte " 0 0
+"1533" "Montana Tech" 0 0
+"1534" "Dillon " 0 0
+"1535" "University of Montana Western" 0 0
+"1536" "Great Falls " 0 0
+"1537" "University of Great Falls" 0 0
+"1538" "Great Falls College Montana State University" 0 0
+"1539" "Havre " 0 0
+"1540" "Montana State University–Northern" 0 0
+"1541" "Helena " 0 0
+"1542" "Carroll College" 0 0
+"1543" "Helena College University of Montana" 0 0
+"1544" "Missoula " 0 0
+"1545" "University of Montana" 0 0
+"1546" "Nebraska[edit]" 0 0
+"1547" "Bellevue " 0 0
+"1548" "Bellevue University" 0 0
+"1549" "Chadron " 0 0
+"1550" "Chadron State College" 0 0
+"1551" "Crete " 0 0
+"1552" "Doane College" 0 0
+"1553" "Fremont " 0 0
+"1554" "Midland University" 0 0
+"1555" "Hastings " 0 0
+"1556" "Hastings College" 0 0
+"1557" "Kearney " 0 0
+"1558" "University of Nebraska at Kearney" 0 0
+"1559" "Lincoln " 0 0
+"1560" "University of Nebraska at Lincoln" 0 0
+"1561" "Nebraska Wesleyan University" 0 0
+"1562" "Bryan College of Health Sciences" 0 0
+"1563" "Omaha " 0 0
+"1564" "Creighton University" 0 0
+"1565" "Clarkson College" 0 0
+"1566" "College of Saint Mary" 0 0
+"1567" "Grace University" 0 0
+"1568" "Nebraska Methodist College" 0 0
+"1569" "Peru " 0 0
+"1570" "Peru State College" 0 0
+"1571" "Seward " 0 0
+"1572" "Concordia University" 0 0
+"1573" "Wayne " 0 0
+"1574" "Wayne State College" 0 0
+"1575" "York" 13 588.97
+"1576" "Nebraska " 0 0
+"1577" "York College" 0 0
+"1578" "Nevada[edit]" 0 0
+"1579" "Henderson " 0 0
+"1580" "Nevada State College" 0 0
+"1581" "National University" 0 0
+"1582" "Roseman University of Health Sciences" 0 0
+"1583" "Touro University Nevada" 0 0
+"1584" "Incline Village " 0 0
+"1585" "Sierra Nevada College" 0 0
+"1586" "Las Vegas " 0 0
+"1587" "University of Nevada" 0 0
+"1588" "Las Vegas" 7 164.34
+"1589" "North Las Vegas " 0 0
+"1590" "Cheyenne Campus of the College of Southern Nevada" 0 0
+"1591" "Reno " 0 0
+"1592" "University of Nevada" 0 0
+"1593" "Reno" 0 0
+"1594" "New Hampshire[edit]" 0 0
+"1595" "Concord " 0 0
+"1596" "NHTI" 0 0
+"1597" "Concord's Community College" 0 0
+"1598" "Granite State College" 0 0
+"1599" "University of New Hampshire School of Law" 0 0
+"1600" "Franklin Pierce University Doctorate of Physical Therapy program" 0 0
+"1601" "Durham " 0 0
+"1602" "University of New Hampshire" 0 0
+"1603" "Hanover " 0 0
+"1604" "Dartmouth College" 0 0
+"1605" "Henniker " 0 0
+"1606" "New England College" 0 0
+"1607" "Keene " 0 0
+"1608" "Keene State College" 0 0
+"1609" "Antioch University New England" 0 0
+"1610" "Manchester " 0 0
+"1611" "University of New Hampshire at Manchester" 0 0
+"1612" "Southern New Hampshire University" 0 0
+"1613" "New Hampshire Institute of Art" 0 0
+"1614" "New London " 0 0
+"1615" "Colby–Sawyer College" 0 0
+"1616" "Plymouth " 0 0
+"1617" "Plymouth State University" 0 0
+"1618" "Rindge " 0 0
+"1619" "Franklin Pierce University" 0 0
+"1620" "New Jersey[edit]" 0 0
+"1621" "Ewing " 0 0
+"1622" "The College of New Jersey" 0 0
+"1623" "Rider University" 0 0
+"1624" "Jersey City " 0 0
+"1625" "New Jersey City University" 0 0
+"1626" "Saint Peter's University" 0 0
+"1627" "Glassboro " 0 0
+"1628" "Rowan University" 0 0
+"1629" "Hoboken " 0 0
+"1630" "Stevens Institute of Technology" 0 0
+"1631" "Madison " 0 0
+"1632" "Drew University" 0 0
+"1633" "Fairleigh Dickinson University" 0 0
+"1634" "College of Saint Elizabeth" 0 0
+"1635" "Montclair " 0 0
+"1636" "Montclair State University" 0 0
+"1637" "Newark " 0 0
+"1638" "Rutgers University" 0 0
+"1639" "New Jersey Institute of Technology" 0 0
+"1640" "UMDNJ" 0 0
+"1641" "New Brunswick " 0 0
+"1642" "Rutgers University" 0 0
+"1643" "Paterson" 0 0
+"1644" "Princeton " 0 0
+"1645" "Princeton University" 0 0
+"1646" "Union " 0 0
+"1647" "Kean University" 0 0
+"1648" "West Long Branch " 0 0
+"1649" "Monmouth University" 0 0
+"1650" "New Mexico[edit]" 0 0
+"1651" "Albuquerque " 0 0
+"1652" "University of New Mexico" 0 0
+"1653" "Southwest University of Visual Arts" 0 0
+"1654" "Southwestern Indian Polytechnic Institute" 0 0
+"1655" "Trinity Southwest University" 0 0
+"1656" "University of St. Francis College of Nursing and Allied Health Department of Physician Assistant Studies" 0 0
+"1657" "St. Norbert College Master of Theological Studies program; New Mexico State University" 0 0
+"1658" "Highlands University" 0 0
+"1659" "Lewis University" 0 0
+"1660" "Wayland Baptist University" 0 0
+"1661" "and Webster University; Brookline College" 0 0
+"1662" "Pima Medical Institute" 0 0
+"1663" "National American University" 0 0
+"1664" "Grand Canyon University" 0 0
+"1665" "the University of Phoenix and several barber/beauty colleges have established their presence in the area." 0 0
+"1666" "Hobbs " 0 0
+"1667" "University of the Southwest" 0 0
+"1668" "Las Cruces " 0 0
+"1669" "New Mexico State University" 0 0
+"1670" "Las Vegas " 0 0
+"1671" "New Mexico Highlands University" 0 0
+"1672" "Portales " 0 0
+"1673" "Eastern New Mexico University" 0 0
+"1674" "Rio Rancho" 0 0
+"1675" "Silver City " 0 0
+"1676" "Western New Mexico University" 0 0
+"1677" "Socorro " 0 0
+"1678" "New Mexico Institute of Mining and Technology" 0 0
+"1679" "New York[edit]" 4 107.12
+"1680" "Albany " 0 0
+"1681" "SUNY Albany" 0 0
+"1682" "Siena College" 0 0
+"1683" "Albany College of Pharmacy" 0 0
+"1684" "Albany Law School" 0 0
+"1685" "Albany Medical College" 0 0
+"1686" "College of Saint Rose" 0 0
+"1687" "Excelsior College" 0 0
+"1688" "Maria College of Albany" 0 0
+"1689" "Mildred Elley" 0 0
+"1690" "Sage College of Albany" 0 0
+"1691" "Alfred " 0 0
+"1692" "Alfred University" 0 0
+"1693" "Alfred State College" 0 0
+"1694" "Aurora " 0 0
+"1695" "Wells College" 0 0
+"1696" "Binghamton " 0 0
+"1697" "Binghamton University" 0 0
+"1698" "Brockport " 0 0
+"1699" "SUNY Brockport" 0 0
+"1700" "Buffalo " 0 0
+"1701" "University at Buffalo" 0 0
+"1702" "Buffalo State College" 0 0
+"1703" "Canisius College" 0 0
+"1704" "Daemen College" 0 0
+"1705" "D'Youville College" 0 0
+"1706" "Medaille College" 0 0
+"1707" "Villa Maria College" 0 0
+"1708" "Canton " 0 0
+"1709" "St. Lawrence University" 0 0
+"1710" "SUNY Canton" 0 0
+"1711" "Clinton " 0 0
+"1712" "Hamilton College" 0 0
+"1713" "Cortland " 0 0
+"1714" "State University of New York at Cortland" 0 0
+"1715" "Cobleskill " 0 0
+"1716" "SUNY Cobleskill" 0 0
+"1717" "Delhi " 0 0
+"1718" "SUNY Delhi" 0 0
+"1719" "Fredonia " 0 0
+"1720" "SUNY Fredonia" 0 0
+"1721" "Geneseo " 0 0
+"1722" "SUNY Geneseo" 0 0
+"1723" "Geneva " 0 0
+"1724" "Hobart and William Smith Colleges" 0 0
+"1725" "Hamilton " 0 0
+"1726" "Colgate University" 0 0
+"1727" "Ithaca " 0 0
+"1728" "Cornell University" 0 0
+"1729" "Ithaca College" 0 0
+"1730" "Newburgh " 0 0
+"1731" "Mount Saint Mary College" 0 0
+"1732" "New Paltz " 0 0
+"1733" "SUNY New Paltz" 0 0
+"1734" "New Rochelle " 0 0
+"1735" "Iona College" 0 0
+"1736" "New York City " 0 0
+"1737" "New York University" 0 0
+"1738" "Columbia University" 0 0
+"1739" "Barnard College" 0 0
+"1740" "Teachers College" 0 0
+"1741" "Manhattan School of Music" 0 0
+"1742" "Jewish Theological Seminary" 0 0
+"1743" "Union Theological Seminary" 0 0
+"1744" "Bank Street College of Education" 0 0
+"1745" "St. John's University" 0 0
+"1746" "Oneonta " 0 0
+"1747" "SUNY Oneonta" 0 0
+"1748" "Hartwick College" 0 0
+"1749" "Oswego " 0 0
+"1750" "SUNY Oswego" 0 0
+"1751" "Plattsburgh " 0 0
+"1752" "SUNY Plattsburgh" 0 0
+"1753" "Potsdam " 0 0
+"1754" "SUNY Potsdam" 0 0
+"1755" "Clarkson University" 0 0
+"1756" "Poughkeepsie " 0 0
+"1757" "Vassar College" 0 0
+"1758" "Marist College" 0 0
+"1759" "Purchase " 0 0
+"1760" "Purchase College" 0 0
+"1761" "Manhattanville College" 0 0
+"1762" "Rochester " 0 0
+"1763" "University of Rochester" 0 0
+"1764" "Rochester Institute of Technology" 0 0
+"1765" "Nazareth College" 0 0
+"1766" "St. John Fisher College" 0 0
+"1767" "Monroe Community College" 0 0
+"1768" "Roberts Wesleyan College" 0 0
+"1769" "SUNY Brockport" 0 0
+"1770" "SUNY Empire State College" 0 0
+"1771" "Saratoga Springs " 0 0
+"1772" "Skidmore College" 0 0
+"1773" "Schenectady " 0 0
+"1774" "Union College" 0 0
+"1775" "Schenectady County Community College" 0 0
+"1776" "Seneca Falls " 0 0
+"1777" "New York Chiropractic College" 0 0
+"1778" "Stony Brook " 0 0
+"1779" "Stony Brook University" 0 0
+"1780" "Syracuse " 0 0
+"1781" "Syracuse University" 0 0
+"1782" "SUNY ESF" 0 0
+"1783" "Upstate Medical University" 0 0
+"1784" "Le Moyne College" 0 0
+"1785" "Tivoli " 0 0
+"1786" "Bard College" 0 0
+"1787" "Troy " 0 0
+"1788" "Rensselaer Polytechnic Institute" 0 0
+"1789" "Russell Sage College" 0 0
+"1790" "Hudson Valley Community College" 0 0
+"1791" "Valhalla " 0 0
+"1792" "New York Medical College" 0 0
+"1793" "West Point " 0 0
+"1794" "United States Military Academy" 0 0
+"1795" "Yonkers " 0 0
+"1796" "Sarah Lawrence College" 0 0
+"1797" "North Carolina[edit]" 0 0
+"1798" "Asheville " 0 0
+"1799" "Asheville-Buncombe Technical Community College" 0 0
+"1800" "Black Mountain College" 0 0
+"1801" "Shaw University" 0 0
+"1802" "Lenoir-Rhyne University" 0 0
+"1803" "University of North Carolina at Asheville" 0 0
+"1804" "South College - Asheville" 0 0
+"1805" "Banner Elk " 0 0
+"1806" "Lees-McRae College" 0 0
+"1807" "Belmont " 0 0
+"1808" "Belmont Abbey College" 0 0
+"1809" "Boiling Springs " 0 0
+"1810" "Gardner-Webb University" 0 0
+"1811" "Boone " 0 0
+"1812" "Appalachian State University" 0 0
+"1813" "Brevard " 0 0
+"1814" "Brevard College" 0 0
+"1815" "Buies Creek " 0 0
+"1816" "Campbell University" 0 0
+"1817" "Chapel Hill " 0 0
+"1818" "University of North Carolina at Chapel Hill" 0 0
+"1819" "Charlotte " 0 0
+"1820" "University of North Carolina at Charlotte" 0 0
+"1821" "Johnson C. Smith University" 0 0
+"1822" "Johnson & Wales University" 0 0
+"1823" "Queens University of Charlotte" 0 0
+"1824" "Cullowhee " 0 0
+"1825" "Western Carolina University" 0 0
+"1826" "Davidson " 0 0
+"1827" "Davidson College" 0 0
+"1828" "Durham " 0 0
+"1829" "Duke University" 0 0
+"1830" "North Carolina Central University" 0 0
+"1831" "Elizabeth City " 0 0
+"1832" "Mid-Atlantic Christian University" 0 0
+"1833" "Elon " 0 0
+"1834" "Elon University" 0 0
+"1835" "Fayetteville " 0 0
+"1836" "Methodist University" 0 0
+"1837" "Greensboro " 0 0
+"1838" "University of North Carolina at Greensboro" 0 0
+"1839" "Greensboro College" 0 0
+"1840" "Guilford College" 0 0
+"1841" "North Carolina A & T State University" 0 0
+"1842" "Bennett College" 0 0
+"1843" "Elon University School of Law" 0 0
+"1844" "Greenville " 0 0
+"1845" "East Carolina University" 0 0
+"1846" "Hickory " 0 0
+"1847" "Lenoir-Rhyne University" 0 0
+"1848" "High Point " 0 0
+"1849" "High Point University" 0 0
+"1850" "Laurinburg " 0 0
+"1851" "St. Andrews University" 0 0
+"1852" "Mars Hill " 0 0
+"1853" "Mars Hill College" 0 0
+"1854" "Misenheimer " 0 0
+"1855" "Pfeiffer University" 0 0
+"1856" "Montreat " 0 0
+"1857" "Montreat College" 0 0
+"1858" "Mount Olive " 0 0
+"1859" "Mount Olive College" 0 0
+"1860" "Murfreesboro " 0 0
+"1861" "Chowan University" 0 0
+"1862" "Pembroke " 0 0
+"1863" "University of North Carolina at Pembroke" 0 0
+"1864" "Raleigh " 0 0
+"1865" "North Carolina State University" 0 0
+"1866" "Campbell University-Norman Adrian Wiggins School of Law" 0 0
+"1867" "Meredith College" 0 0
+"1868" "William Peace University" 0 0
+"1869" "Shaw University" 0 0
+"1870" "St. Augustine's University" 0 0
+"1871" "Rocky Mount " 0 0
+"1872" "North Carolina Wesleyan College" 0 0
+"1873" "Salisbury " 0 0
+"1874" "Catawba College" 0 0
+"1875" "Wilmington " 0 0
+"1876" "University of North Carolina at Wilmington" 0 0
+"1877" "Wilson " 0 0
+"1878" "Barton College " 0 0
+"1879" "Wingate " 0 0
+"1880" "Wingate University" 0 0
+"1881" "Winston-Salem " 0 0
+"1882" "Wake Forest University" 0 0
+"1883" "University of North Carolina School of the Arts" 0 0
+"1884" "Salem College" 0 0
+"1885" "Winston-Salem State University" 0 0
+"1886" "North Dakota[edit]" 0 0
+"1887" "Bismarck " 0 0
+"1888" "University of Mary" 0 0
+"1889" "Rasmussen College" 0 0
+"1890" "Dickinson " 0 0
+"1891" "Dickinson State University" 0 0
+"1892" "Fargo " 0 0
+"1893" "North Dakota State University" 0 0
+"1894" "Grand Forks " 0 0
+"1895" "University of North Dakota" 0 0
+"1896" "Jamestown " 0 0
+"1897" "University of Jamestown" 0 0
+"1898" "Mayville " 0 0
+"1899" "Mayville State University" 0 0
+"1900" "Minot " 0 0
+"1901" "Minot State University" 0 0
+"1902" "Valley City " 0 0
+"1903" "Valley City State University" 0 0
+"1904" "Ohio[edit]" 0 0
+"1905" "Ada " 0 0
+"1906" "Ohio Northern University" 0 0
+"1907" "Akron " 0 0
+"1908" "University of Akron" 0 0
+"1909" "Alliance " 0 0
+"1910" "University of Mount Union" 0 0
+"1911" "Ashland " 0 0
+"1912" "Ashland University" 0 0
+"1913" "Athens " 0 0
+"1914" "Ohio University" 0 0
+"1915" "Berea " 0 0
+"1916" "Baldwin Wallace College" 0 0
+"1917" "Bluffton " 0 0
+"1918" "Bluffton University" 0 0
+"1919" "Bowling Green " 0 0
+"1920" "Bowling Green State University" 0 0
+"1921" "Cedarville " 0 0
+"1922" "Cedarville University" 0 0
+"1923" "Cincinnati " 0 0
+"1924" "University of Cincinnati" 0 0
+"1925" "Xavier University" 0 0
+"1926" "Cincinnati Christian University" 0 0
+"1927" "Chatfield College" 0 0
+"1928" "Mount St. Joseph University" 0 0
+"1929" "Cleveland:" 0 0
+"1930" "Downtown " 0 0
+"1931" "Cleveland State University" 0 0
+"1932" "Cuyahoga Community College" 0 0
+"1933" "Fairfax " 0 0
+"1934" "Cleveland Clinic Lerner College of Medicine" 0 0
+"1935" "St. Clair-Superior " 0 0
+"1936" "Ohio Technical College" 0 0
+"1937" "University Circle " 0 0
+"1938" "Case Western Reserve University" 0 0
+"1939" "Columbus :" 0 0
+"1940" "Downtown " 0 0
+"1941" "Capital University Law School" 0 0
+"1942" "Columbus College of Art and Design" 0 0
+"1943" "Franklin University" 0 0
+"1944" "North Central neighborhood " 0 0
+"1945" "Ohio Dominican University" 0 0
+"1946" "University District " 0 0
+"1947" "Ohio State University" 0 0
+"1948" "Dayton " 0 0
+"1949" "University of Dayton" 0 0
+"1950" "Wright State University Boonshoft School of Medicine" 0 0
+"1951" "Delaware " 0 0
+"1952" "Ohio Wesleyan University" 0 0
+"1953" "Fairborn " 0 0
+"1954" "Wright State University" 0 0
+"1955" "Findlay " 0 0
+"1956" "University of Findlay" 0 0
+"1957" "Gambier " 0 0
+"1958" "Kenyon College" 0 0
+"1959" "Granville " 0 0
+"1960" "Denison University" 0 0
+"1961" "Hiram " 0 0
+"1962" "Hiram College" 0 0
+"1963" "Kent " 0 0
+"1964" "Kent State University" 0 0
+"1965" "Nelsonville " 0 0
+"1966" "Hocking College" 0 0
+"1967" "New Concord " 0 0
+"1968" "Muskingum College" 0 0
+"1969" "Oberlin " 0 0
+"1970" "Oberlin College" 0 0
+"1971" "Oxford " 0 0
+"1972" "Miami University" 0 0
+"1973" "Perrysburg Township " 0 0
+"1974" "Owens Community College" 0 0
+"1975" "Rio Grande " 0 0
+"1976" "University of Rio Grande" 0 0
+"1977" "Springfield " 0 0
+"1978" "Wittenberg University" 0 0
+"1979" "Tiffin " 0 0
+"1980" "Tiffin University" 0 0
+"1981" "Heidelberg University" 0 0
+"1982" "Toledo " 0 0
+"1983" "University of Toledo" 0 0
+"1984" "University of Toledo College of Medicine and Life Sciences" 0 0
+"1985" "Davis College" 0 0
+"1986" "Mercy College of Ohio" 0 0
+"1987" "Wilberforce " 0 0
+"1988" "Wilberforce University" 0 0
+"1989" "Central State University" 0 0
+"1990" "Wooster " 0 0
+"1991" "College of Wooster" 0 0
+"1992" "Yellow Springs " 0 0
+"1993" "Antioch College" 0 0
+"1994" "Antioch University Midwest" 0 0
+"1995" "Youngstown " 0 0
+"1996" "Youngstown State University" 0 0
+"1997" "Oklahoma[edit]" 0 0
+"1998" "Ada " 0 0
+"1999" "East Central University" 0 0
+"2000" "Alva " 0 0
+"2001" "Northwestern Oklahoma State University" 0 0
+"2002" "Bethany " 0 0
+"2003" "Southern Nazarene University" 0 0
+"2004" "Durant " 0 0
+"2005" "Southeastern Oklahoma State University" 0 0
+"2006" "Edmond " 0 0
+"2007" "University of Central Oklahoma" 0 0
+"2008" "Oklahoma Christian University" 0 0
+"2009" "Goodwell " 0 0
+"2010" "Oklahoma Panhandle State University" 0 0
+"2011" "Langston " 0 0
+"2012" "Langston University" 0 0
+"2013" "Lawton " 0 0
+"2014" "Cameron University" 0 0
+"2015" "Midwest City " 0 0
+"2016" "Rose State College" 0 0
+"2017" "Norman " 0 0
+"2018" "University of Oklahoma" 0 0
+"2019" "Oklahoma City " 0 0
+"2020" "Oklahoma City University" 0 0
+"2021" "University of Oklahoma - OU Medicine and the University of Oklahoma Health Sciences Center campuses" 0 0
+"2022" "Oklahoma State University–Oklahoma City" 0 0
+"2023" "Stillwater " 0 0
+"2024" "Oklahoma State University" 0 0
+"2025" "Tahlequah " 0 0
+"2026" "Northeastern State University" 0 0
+"2027" "Tulsa " 0 0
+"2028" "University of Tulsa" 0 0
+"2029" "Weatherford " 0 0
+"2030" "Southwestern Oklahoma State University" 0 0
+"2031" "Oregon[edit]" 0 0
+"2032" "Ashland " 0 0
+"2033" "Southern Oregon University" 0 0
+"2034" "Corvallis " 0 0
+"2035" "Oregon State University" 0 0
+"2036" "Eugene " 0 0
+"2037" "University of Oregon" 0 0
+"2038" "Lane Community College" 0 0
+"2039" "Northwest Christian University " 0 0
+"2040" "Forest Grove " 0 0
+"2041" "Pacific University" 0 0
+"2042" "Klamath Falls " 0 0
+"2043" "Klamath Community College" 0 0
+"2044" "Oregon Institute of Technology" 0 0
+"2045" "La Grande " 0 0
+"2046" "Eastern Oregon University" 0 0
+"2047" "Lebanon " 0 0
+"2048" "Western University of Health Sciences Oregon Branch: College of Osteopathic Medicine of the Pacific" 0 0
+"2049" "Northwest" 5 148
+"2050" "Marylhurst " 0 0
+"2051" "Marylhurst University" 0 0
+"2052" "McMinnville " 0 0
+"2053" "Linfield College" 0 0
+"2054" "Monmouth " 0 0
+"2055" "Western Oregon University" 0 0
+"2056" "Newberg " 0 0
+"2057" "George Fox University" 0 0
+"2058" "Portland " 0 0
+"2059" "Portland State University" 0 0
+"2060" "Oregon Health & Science University" 0 0
+"2061" "Portland Community College" 0 0
+"2062" "University of Portland" 0 0
+"2063" "Lewis & Clark College ...." 0 0
+"2064" "Salem " 0 0
+"2065" "Chemeketa Community College" 0 0
+"2066" "Corban University" 0 0
+"2067" "Tokyo International University of America" 0 0
+"2068" "Willamette University" 0 0
+"2069" "Pennsylvania[edit]" 0 0
+"2070" "Allentown " 0 0
+"2071" "Cedar Crest College" 0 0
+"2072" "Muhlenberg College" 0 0
+"2073" "a satellite campus of Lehigh Carbon Community College " 0 0
+"2074" "LCCC" 0 0
+"2075" "Altoona " 0 0
+"2076" "Penn State Altoona" 0 0
+"2077" "Annville " 0 0
+"2078" "Lebanon Valley College" 0 0
+"2079" "Bethlehem " 0 0
+"2080" "Lehigh University" 0 0
+"2081" "Moravian College" 0 0
+"2082" "Bloomsburg " 0 0
+"2083" "Bloomsburg University of Pennsylvania" 0 0
+"2084" "Bradford " 0 0
+"2085" "University of Pittsburgh at Bradford" 0 0
+"2086" "California " 0 0
+"2087" "California University of Pennsylvania" 0 0
+"2088" "Carlisle " 0 0
+"2089" "Dickinson College" 0 0
+"2090" "Penn State Dickinson School of Law" 0 0
+"2091" "Center Township" 0 0
+"2092" "Beaver County " 0 0
+"2093" "Penn State Beaver" 0 0
+"2094" "Center Valley " 0 0
+"2095" "DeSales University" 0 0
+"2096" "Penn State Lehigh Valley" 0 0
+"2097" "Strayer University " 0 0
+"2098" "Allentown campus" 0 0
+"2099" "Chambersburg " 0 0
+"2100" "Wilson College" 0 0
+"2101" "Clarion " 0 0
+"2102" "Clarion University of Pennsylvania" 0 0
+"2103" "Collegeville " 0 0
+"2104" "Ursinus College" 0 0
+"2105" "Cresson " 0 0
+"2106" "Mount Aloysius College" 0 0
+"2107" "Dunmore " 0 0
+"2108" "Pennsylvania State University" 0 0
+"2109" "Easton " 0 0
+"2110" "Lafayette College" 0 0
+"2111" "East Stroudsburg " 0 0
+"2112" "East Stroudsburg University of Pennsylvania" 0 0
+"2113" "Edinboro " 0 0
+"2114" "Edinboro University of Pennsylvania" 0 0
+"2115" "Erie " 0 0
+"2116" "Gannon University" 0 0
+"2117" "Mercyhurst College" 0 0
+"2118" "Penn State Erie" 0 0
+"2119" "Lake Erie College of Osteopathic Medicine" 0 0
+"2120" "Gettysburg " 0 0
+"2121" "Gettysburg College" 0 0
+"2122" "Grantham " 0 0
+"2123" "Messiah College" 0 0
+"2124" "Greensburg " 0 0
+"2125" "Seton Hill University" 0 0
+"2126" "University of Pittsburgh at Greensburg" 0 0
+"2127" "Lake Erie College of Osteopathic Medicine branch campus" 0 0
+"2128" "Grove City " 0 0
+"2129" "Grove City College" 0 0
+"2130" "Harrisburg " 0 0
+"2131" "Temple University Harrisburg Campus" 0 0
+"2132" "Widener University Harrisburg Campus including its School of Law" 0 0
+"2133" "Harrisburg University of Science and Technology" 0 0
+"2134" "Messiah College's Harrisburg Institute" 0 0
+"2135" "Penn State Harrisburg Eastgate Center" 0 0
+"2136" "Dixon University Center" 0 0
+"2137" "Harrisburg Area Community College" 0 0
+"2138" "Hershey " 0 0
+"2139" "Penn State Hershey Medical Center" 0 0
+"2140" "Huntingdon " 0 0
+"2141" "Juniata College" 0 0
+"2142" "Indiana " 0 0
+"2143" "Indiana University of Pennsylvania" 0 0
+"2144" "Johnstown :" 0 0
+"2145" "Richland Township " 0 0
+"2146" "University of Pittsburgh at Johnstown" 0 0
+"2147" "Kennett Square " 0 0
+"2148" "University of Pennsylvania School of Veterinary Medicine" 0 0
+"2149" "Kutztown " 0 0
+"2150" "Kutztown University of Pennsylvania" 0 0
+"2151" "Lancaster " 0 0
+"2152" "Franklin & Marshall" 0 0
+"2153" "Lemoyne " 0 0
+"2154" "Duquesne University " 0 0
+"2155" "Capital Region Campus" 0 0
+"2156" "Lewisburg " 0 0
+"2157" "Bucknell University" 0 0
+"2158" "Lock Haven " 0 0
+"2159" "Lock Haven University of Pennsylvania" 0 0
+"2160" "Loretto " 0 0
+"2161" "St. Francis University" 0 0
+"2162" "Lower Merion Township " 0 0
+"2163" "Bryn Mawr College" 0 0
+"2164" "Harcum College" 0 0
+"2165" "Rosemont College" 0 0
+"2166" "St. Charles Borromeo Seminary" 0 0
+"2167" "Merion " 0 0
+"2168" "Saint Joseph's University" 0 0
+"2169" "Mansfield " 0 0
+"2170" "Mansfield University of Pennsylvania" 0 0
+"2171" "Meadville " 0 0
+"2172" "Allegheny College" 0 0
+"2173" "Mechanicsburg " 0 0
+"2174" "Messiah College" 0 0
+"2175" "Mont Alto " 0 0
+"2176" "Penn State Mont Alto" 0 0
+"2177" "Millersville " 0 0
+"2178" "Millersville University of Pennsylvania" 0 0
+"2179" "New Wilmington " 0 0
+"2180" "Westminster College" 0 0
+"2181" "North East " 0 0
+"2182" "Mercyhurst North East" 0 0
+"2183" "Philadelphia :" 0 0
+"2184" "Cecil B. Moore " 0 0
+"2185" "Temple University" 0 0
+"2186" "Girard College" 0 0
+"2187" "Center City " 0 0
+"2188" "Temple University Center City Campus" 0 0
+"2189" "Drexel University Center City Hahnemann Campus" 0 0
+"2190" "Thomas Jefferson University" 0 0
+"2191" "Chestnut Hill " 0 0
+"2192" "Chestnut Hill College" 0 0
+"2193" "East Falls " 0 0
+"2194" "Drexel University Queen Lane Campus" 0 0
+"2195" "Philadelphia University" 0 0
+"2196" "Germantown " 0 0
+"2197" "La Salle University" 0 0
+"2198" "Logan " 0 0
+"2199" "La Salle University " 0 0
+"2200" "main campus" 0 0
+"2201" "Northeast Philadelphia " 0 0
+"2202" "Holy Family University" 0 0
+"2203" "Overbrook " 0 0
+"2204" "Saint Joseph's University Overbrook campus" 0 0
+"2205" "Rittenhouse Square " 0 0
+"2206" "University of the Arts" 0 0
+"2207" "Peirce College" 0 0
+"2208" "University City " 0 0
+"2209" "University of Pennsylvania" 0 0
+"2210" "Drexel University" 0 0
+"2211" "University of the Sciences in Philadelphia" 0 0
+"2212" "Community College of Philadelphia" 0 0
+"2213" "Lincoln University" 0 0
+"2214" "The Restaurant School at Walnut Hill College" 0 0
+"2215" "Philadelphia Divinity School" 0 0
+"2216" "Philadelphia College of Osteopathy" 0 0
+"2217" "Pittsburgh:" 0 0
+"2218" "Central Northside " 0 0
+"2219" "Community College of Allegheny County" 0 0
+"2220" "Downtown Pittsburgh " 0 0
+"2221" "Point Park University" 0 0
+"2222" "The Art Institute of Pittsburgh" 0 0
+"2223" "East Liberty " 0 0
+"2224" "Pittsburgh Institute of Mortuary Science" 0 0
+"2225" "Oakland " 0 0
+"2226" "Carnegie Mellon University" 0 0
+"2227" "University of Pittsburgh" 0 0
+"2228" "Carlow University" 0 0
+"2229" "Squirrel Hill " 0 0
+"2230" "Chatham University" 0 0
+"2231" "Uptown neighborhood " 0 0
+"2232" "Duquesne University" 0 0
+"2233" "Reading " 0 0
+"2234" "Albright College" 0 0
+"2235" "Alvernia University" 0 0
+"2236" "Penn State Berks" 0 0
+"2237" "Scranton " 0 0
+"2238" "University of Scranton" 0 0
+"2239" "The Commonwealth Medical College" 0 0
+"2240" "Johnson College" 0 0
+"2241" "Lackawanna College" 0 0
+"2242" "Marywood University" 0 0
+"2243" "Fortis Institute" 0 0
+"2244" "Selinsgrove " 0 0
+"2245" "Susquehanna University" 0 0
+"2246" "Shippensburg " 0 0
+"2247" "Shippensburg University of Pennsylvania" 0 0
+"2248" "Slippery Rock " 0 0
+"2249" "Slippery Rock University of Pennsylvania" 0 0
+"2250" "State College:" 0 0
+"2251" "Downtown State College " 0 0
+"2252" "Pennsylvania State University - flagship campus" 0 0
+"2253" "Waupelani Heights " 0 0
+"2254" "South Hills School of Business & Technology" 0 0
+"2255" "Summerdale " 0 0
+"2256" "statCentral Pennsylvania College" 0 0
+"2257" "Swarthmore " 0 0
+"2258" "Swarthmore College" 0 0
+"2259" "Upper Dublin Township " 0 0
+"2260" "Temple University Ambler and Fort Washington campuses" 0 0
+"2261" "DeVry University Fort Washington campus and Gwynedd Mercy College Fort Washington campus" 0 0
+"2262" "Villanova " 0 0
+"2263" "Villanova University" 0 0
+"2264" "Waynesburg " 0 0
+"2265" "Waynesburg University" 0 0
+"2266" "West Chester " 0 0
+"2267" "West Chester University of Pennsylvania" 0 0
+"2268" "Wilkes-Barre " 0 0
+"2269" "King's College" 0 0
+"2270" "Wilkes University" 0 0
+"2271" "Williamsport " 0 0
+"2272" "Lycoming College" 0 0
+"2273" "Pennsylvania College of Technology" 0 0
+"2274" "Rhode Island[edit]" 0 0
+"2275" "Bristol " 0 0
+"2276" "Roger Williams University" 0 0
+"2277" "Kingston " 0 0
+"2278" "University of Rhode Island" 0 0
+"2279" "Newport " 0 0
+"2280" "Salve Regina University" 0 0
+"2281" "Providence :" 0 0
+"2282" "College Hill " 0 0
+"2283" "Brown University - main campus" 0 0
+"2284" "Rhode Island School of Design" 0 0
+"2285" "Downtown " 0 0
+"2286" "University of Rhode Island - Feinstein Providence Campus" 0 0
+"2287" "Roger Williams University" 0 0
+"2288" "Elmhurst " 0 0
+"2289" "Providence College" 0 0
+"2290" "Jewelry District " 0 0
+"2291" "Brown University - Alpert Medical School" 0 0
+"2292" "Johnson and Wales University" 0 0
+"2293" "Lower South Providence " 0 0
+"2294" "Community College of Rhode Island" 0 0
+"2295" "Manton " 0 0
+"2296" "Rhode Island College" 0 0
+"2297" "Smithfield " 0 0
+"2298" "Bryant University" 0 0
+"2299" "Warwick " 0 0
+"2300" "Community College of Rhode Island" 0 0
+"2301" "South Carolina[edit]" 0 0
+"2302" "Beaufort " 0 0
+"2303" "University of South Carolina Beaufort" 0 0
+"2304" "Central " 0 0
+"2305" "Southern Wesleyan University" 0 0
+"2306" "Charleston " 0 0
+"2307" "College of Charleston" 0 0
+"2308" "The Citadel" 0 0
+"2309" "MUSC" 1 202.11
+"2310" "Charleston School of Law" 0 0
+"2311" "Clemson " 0 0
+"2312" "Clemson University" 0 0
+"2313" "Clinton " 0 0
+"2314" "Presbyterian College" 0 0
+"2315" "Columbia " 0 0
+"2316" "University of South Carolina" 0 0
+"2317" "Due West " 0 0
+"2318" "Erskine College" 0 0
+"2319" "Florence " 0 0
+"2320" "Francis Marion University" 0 0
+"2321" "Greenwood " 0 0
+"2322" "Lander University" 0 0
+"2323" "North Charleston " 0 0
+"2324" "Charleston Southern University" 0 0
+"2325" "Trident Technical College - Main Campus" 0 0
+"2326" "Orangeburg " 0 0
+"2327" "South Carolina State University" 0 0
+"2328" "Claflin University" 0 0
+"2329" "Rock Hill " 0 0
+"2330" "Winthrop University" 0 0
+"2331" "Spartanburg " 0 0
+"2332" "Wofford College" 0 0
+"2333" "Converse College" 0 0
+"2334" "University of South Carolina Upstate" 0 0
+"2335" "Spartanburg Methodist College" 0 0
+"2336" "Edward Via College of Osteopathic Medicine" 0 0
+"2337" "Spartanburg Community College" 0 0
+"2338" "Virginia College" 0 0
+"2339" "Sherman College of Chiropractic" 0 0
+"2340" "South Dakota[edit]" 0 0
+"2341" "Aberdeen" 1 20.09
+"2342" "Brookings " 0 0
+"2343" "South Dakota State University" 0 0
+"2344" "Madison " 0 0
+"2345" "Dakota State University" 0 0
+"2346" "Mitchell Dakota Weslyan" 0 0
+"2347" "Rapid City South Dakota School of Mines & Technology" 0 0
+"2348" "Sioux Falls " 0 0
+"2349" "University of Sioux Falls" 0 0
+"2350" "Augustana University" 0 0
+"2351" "Sioux Falls Seminary" 0 0
+"2352" "Kilian Community College" 0 0
+"2353" "Southeast Technical Institute" 0 0
+"2354" "National American University" 0 0
+"2355" "South Dakota School for the Deaf" 0 0
+"2356" "Globe University/Minnesota School of Business" 0 0
+"2357" "University of South Dakota's Sanford School of Medicine " 0 0
+"2358" "Sioux Falls campus" 0 0
+"2359" "Stewart School" 0 0
+"2360" "South Dakota Public Universities and Research Center " 0 0
+"2361" "USDSU" 0 0
+"2362" "Spearfish " 0 0
+"2363" "Black Hills State University" 0 0
+"2364" "Vermillion " 0 0
+"2365" "University of South Dakota" 0 0
+"2366" "Tennessee[edit]" 0 0
+"2367" "Chattanooga " 0 0
+"2368" "University of Tennessee at Chattanooga" 0 0
+"2369" "Clarksville " 0 0
+"2370" "Austin Peay State University" 0 0
+"2371" "Miller-Motte Technical College" 0 0
+"2372" "Nashville State Community College" 0 0
+"2373" "Daymar Institute" 0 0
+"2374" "North Tennessee Bible Institute" 0 0
+"2375" "Collegedale " 0 0
+"2376" "Southern Adventist University" 0 0
+"2377" "Cookeville " 0 0
+"2378" "Tennessee Technological University" 0 0
+"2379" "Harrogate " 0 0
+"2380" "Lincoln Memorial University" 0 0
+"2381" "Henderson " 0 0
+"2382" "Freed-Hardeman University" 0 0
+"2383" "Johnson City " 0 0
+"2384" "East Tennessee State University" 0 0
+"2385" "Knoxville " 0 0
+"2386" "University of Tennessee" 0 0
+"2387" "Duncan School of Law " 0 0
+"2388" "Lincoln Memorial Univ." 0 0
+"2389" "Lebanon " 0 0
+"2390" "Cumberland University" 0 0
+"2391" "Martin " 0 0
+"2392" "University of Tennessee at Martin" 0 0
+"2393" "Memphis " 0 0
+"2394" "Baptist College of Health Sciences" 0 0
+"2395" "Christian Brothers University" 0 0
+"2396" "LeMoyne-Owen College" 0 0
+"2397" "Memphis College of Art" 0 0
+"2398" "Rhodes College" 0 0
+"2399" "Southern College of Optometry" 0 0
+"2400" "Southwest Tennessee Community College" 0 0
+"2401" "Union University - Germantown campus" 0 0
+"2402" "University of Memphis" 0 0
+"2403" "University of Tennessee Health Science Center" 0 0
+"2404" "McKenzie " 0 0
+"2405" "Bethel University" 0 0
+"2406" "Memphis " 0 0
+"2407" "Christian Brothers University" 0 0
+"2408" "LeMoyne-Owen College" 0 0
+"2409" "Memphis College of Art" 0 0
+"2410" "Rhodes College" 0 0
+"2411" "Southern College of Optometry" 0 0
+"2412" "Southwest Tennessee Community College" 0 0
+"2413" "University of Memphis" 0 0
+"2414" "University of Tennessee Health Science Center" 0 0
+"2415" "Visible Music College" 0 0
+"2416" "Murfreesboro " 0 0
+"2417" "Middle Tennessee State University" 0 0
+"2418" "Nashville " 0 0
+"2419" "Vanderbilt University" 0 0
+"2420" "Belmont University" 0 0
+"2421" "Tennessee State University" 0 0
+"2422" "Lipscomb University" 0 0
+"2423" "Fisk University" 0 0
+"2424" "Aquinas College" 0 0
+"2425" "Trevecca Nazarene University" 0 0
+"2426" "Meharry Medical College" 0 0
+"2427" "Nashville School of Law" 0 0
+"2428" "Sewanee " 0 0
+"2429" "Sewanee: the University of the South" 0 0
+"2430" "Texas[edit]" 0 0
+"2431" "Abilene " 0 0
+"2432" "Abilene Christian University" 0 0
+"2433" "Hardin-Simmons University" 0 0
+"2434" "McMurry University" 0 0
+"2435" "Alpine " 0 0
+"2436" "Sul Ross State University" 0 0
+"2437" "Amarillo " 0 0
+"2438" "Wayland Baptist University branch campus" 0 0
+"2439" "Texas Tech University Health Sciences Center at Amarillo School of Pharmacy" 0 0
+"2440" "Texas Tech University at Amarillo" 0 0
+"2441" "West Texas A&M University satellite campus" 0 0
+"2442" "Arlington " 0 0
+"2443" "University of Texas at Arlington" 0 0
+"2444" "Austin " 0 0
+"2445" "University of Texas at Austin" 0 0
+"2446" "St. Edwards University" 0 0
+"2447" "Huston-Tillotson University" 0 0
+"2448" "Beaumont " 0 0
+"2449" "Lamar University" 0 0
+"2450" "Belton " 0 0
+"2451" "University of Mary Hardin-Baylor" 0 0
+"2452" "Big Spring " 0 0
+"2453" "Howard College" 0 0
+"2454" "Brownsville " 0 0
+"2455" "The University of Texas Rio Grande Valley" 0 0
+"2456" "Bryan " 0 0
+"2457" "Blinn College – Bryan Campus" 0 0
+"2458" "Texas A&M Health Science Center" 0 0
+"2459" "Canyon " 0 0
+"2460" "West Texas A&M University" 0 0
+"2461" "Carrollton" 3 254.68
+"2462" "College Station " 0 0
+"2463" "Texas A&M University" 0 0
+"2464" "Commerce " 0 0
+"2465" "Texas A&M University–Commerce" 0 0
+"2466" "Corpus Christi " 0 0
+"2467" "Texas A&M University-Corpus Christi" 0 0
+"2468" "Del Mar College" 0 0
+"2469" "Saint Leo University-Corpus Christi" 0 0
+"2470" "Dallas " 0 0
+"2471" "Dallas Baptist University" 0 0
+"2472" "University of North Texas at Dallas" 0 0
+"2473" "University of Texas Southwestern Medical Center" 0 0
+"2474" "Denton " 0 0
+"2475" "University of North Texas" 0 0
+"2476" "Texas Woman's University" 0 0
+"2477" "Texas A&M University Baylor College of Dentistry" 0 0
+"2478" "Edinburg " 0 0
+"2479" "University of Texas Rio Grande Valley" 0 0
+"2480" "El Paso " 0 0
+"2481" "University of Texas at El Paso" 0 0
+"2482" "Fort Worth " 0 0
+"2483" "Texas Christian University" 0 0
+"2484" "Texas Wesleyan University" 0 0
+"2485" "Texas A&M School of Law" 0 0
+"2486" "Galveston " 0 0
+"2487" "Texas A&M University at Galveston" 0 0
+"2488" "Georgetown " 0 0
+"2489" "Southwestern University" 0 0
+"2490" "Garland " 0 0
+"2491" "Amberton University" 0 0
+"2492" "Grand Prairie" 0 0
+"2493" "Houston " 0 0
+"2494" "University of Houston" 0 0
+"2495" "University of Houston–Clear Lake" 0 0
+"2496" "University of Houston–Downtown" 0 0
+"2497" "Texas Southern University" 0 0
+"2498" "University of St. Thomas" 0 0
+"2499" "Rice University" 0 0
+"2500" "Houston Baptist University" 0 0
+"2501" "Huntsville " 0 0
+"2502" "Sam Houston State University" 0 0
+"2503" "Irving " 0 0
+"2504" "University of Dallas" 0 0
+"2505" "North Lake College" 0 0
+"2506" "Keene " 0 0
+"2507" "Southwestern Adventist University" 0 0
+"2508" "Killeen " 0 0
+"2509" "Central Texas College" 0 0
+"2510" "Texas A&M University-Central Texas" 0 0
+"2511" "Kingsville " 0 0
+"2512" "Texas A&M University–Kingsville" 0 0
+"2513" "Laredo " 0 0
+"2514" "Texas A&M International University" 0 0
+"2515" "University of Texas Health Science Center at San Antonio - Laredo campus" 0 0
+"2516" "Lubbock " 0 0
+"2517" "Texas Tech University" 0 0
+"2518" "Lubbock Christian University" 0 0
+"2519" "McAllen " 0 0
+"2520" "University of Texas Rio Grande Valley" 0 0
+"2521" "McKinney" 1 -39.99
+"2522" "Mesquite " 0 0
+"2523" "Texas A&M University–Commerce Mesquite Metroplex Center" 0 0
+"2524" "Columbia College-Mesquite Campus" 0 0
+"2525" "Nacogdoches " 0 0
+"2526" "Stephen F. Austin State University" 0 0
+"2527" "Odessa " 0 0
+"2528" "The University of Texas of the Permian Basin" 0 0
+"2529" "Pasadena " 0 0
+"2530" "University of Houston–Clear Lake" 0 0
+"2531" "Pearland " 0 0
+"2532" "University of Houston–Clear Lake satellite campus" 0 0
+"2533" "Plainview " 0 0
+"2534" "Wayland Baptist University" 0 0
+"2535" "Plano " 0 0
+"2536" "Southern Methodist University branch campus" 0 0
+"2537" "Dallas Baptist University satellite campus" 0 0
+"2538" "Prairie View " 0 0
+"2539" "Prairie View A&M University" 0 0
+"2540" "Richardson " 0 0
+"2541" "University of Texas at Dallas main campus" 0 0
+"2542" "San Angelo " 0 0
+"2543" "Angelo State University" 0 0
+"2544" "San Antonio " 0 0
+"2545" "University of Texas at San Antonio" 0 0
+"2546" "Texas A&M University–San Antonio" 0 0
+"2547" "Trinity University" 0 0
+"2548" "University of the Incarnate Word" 0 0
+"2549" "San Marcos " 0 0
+"2550" "Texas State University" 0 0
+"2551" "Stephenville " 0 0
+"2552" "Tarleton State University" 0 0
+"2553" "Texarkana " 0 0
+"2554" "Texas A&M University–Texarkana" 0 0
+"2555" "Tyler " 0 0
+"2556" "The University of Texas at Tyler" 0 0
+"2557" "University Park " 0 0
+"2558" "Southern Methodist University" 0 0
+"2559" "Waco " 0 0
+"2560" "Baylor University" 0 0
+"2561" "Wichita Falls " 0 0
+"2562" "Midwestern State University" 0 0
+"2563" "Utah[edit]" 0 0
+"2564" "Cedar City " 0 0
+"2565" "Southern Utah University" 0 0
+"2566" "Ephraim " 0 0
+"2567" "Snow College" 0 0
+"2568" "Logan " 0 0
+"2569" "Utah State University" 0 0
+"2570" "Orem " 0 0
+"2571" "Utah Valley University" 0 0
+"2572" "Provo " 0 0
+"2573" "Brigham Young University" 0 0
+"2574" "Salt Lake City " 0 0
+"2575" "University of Utah" 0 0
+"2576" "South Jordan " 0 0
+"2577" "Roseman University of Health Sciences College of Dental Medicine" 0 0
+"2578" "St. George " 0 0
+"2579" "Dixie State University" 0 0
+"2580" "Vermont[edit]" 0 0
+"2581" "Burlington " 0 0
+"2582" "University of Vermont" 0 0
+"2583" "Champlain College and Saint Michael's College" 0 0
+"2584" "Castleton " 0 0
+"2585" "Castleton State College" 0 0
+"2586" "Johnson " 0 0
+"2587" "Johnson State College" 0 0
+"2588" "Lyndonville " 0 0
+"2589" "Lyndon State College" 0 0
+"2590" "Middlebury " 0 0
+"2591" "Middlebury College" 0 0
+"2592" "Northfield " 0 0
+"2593" "Norwich University" 0 0
+"2594" "Virginia[edit]" 0 0
+"2595" "Alexandria " 0 0
+"2596" "Virginia Commonwealth University branch of its School of Social Work" 0 0
+"2597" "The George Washington University" 0 0
+"2598" "Arlington " 0 0
+"2599" "Marymount University" 0 0
+"2600" "George Mason University" 0 0
+"2601" "Blacksburg " 0 0
+"2602" "Virginia Tech" 0 0
+"2603" "Bridgewater " 0 0
+"2604" "Bridgewater College" 0 0
+"2605" "Charlottesville " 0 0
+"2606" "University of Virginia" 0 0
+"2607" "Chesapeake " 0 0
+"2608" "Averett University" 0 0
+"2609" "DeVry University" 0 0
+"2610" "Troy University" 0 0
+"2611" "Tidewater Community College" 0 0
+"2612" "Strayer University" 0 0
+"2613" "Everest University" 0 0
+"2614" "Sentera College of Health Sciences" 0 0
+"2615" "St Leo University" 0 0
+"2616" "Farmville " 0 0
+"2617" "Longwood University" 0 0
+"2618" "Hampden-Sydney College" 0 0
+"2619" "Fredericksburg " 0 0
+"2620" "University of Mary Washington" 0 0
+"2621" "Hampton " 0 0
+"2622" "Hampton University" 0 0
+"2623" "Bryant and Stratton College" 0 0
+"2624" "Harrisonburg " 0 0
+"2625" "James Madison University" 0 0
+"2626" "Eastern Mennonite University" 0 0
+"2627" "Lexington " 0 0
+"2628" "Washington and Lee University" 0 0
+"2629" "Virginia Military Institute" 0 0
+"2630" "Lynchburg " 0 0
+"2631" "Lynchburg College" 0 0
+"2632" "Randolph College" 0 0
+"2633" "Liberty University" 0 0
+"2634" "Central Virginia Community College" 0 0
+"2635" "Newport News " 0 0
+"2636" "Christopher Newport University" 0 0
+"2637" "Norfolk " 0 0
+"2638" "Old Dominion University" 0 0
+"2639" "Norfolk State University" 0 0
+"2640" "Portsmouth " 0 0
+"2641" "Old Dominion University" 0 0
+"2642" "Radford " 0 0
+"2643" "Radford University" 0 0
+"2644" "Richmond " 0 0
+"2645" "University of Richmond" 0 0
+"2646" "Virginia Commonwealth University" 0 0
+"2647" "Staunton " 0 0
+"2648" "Mary Baldwin University" 0 0
+"2649" "Virginia Beach " 0 0
+"2650" "Regent University" 0 0
+"2651" "Atlantic University" 0 0
+"2652" "Virginia Wesleyan College" 0 0
+"2653" "University of Virginia and Virginia Tech satellite campuses" 0 0
+"2654" "ECPI University" 0 0
+"2655" "Williamsburg " 0 0
+"2656" "College of William & Mary" 0 0
+"2657" "Wise " 0 0
+"2658" "University of Virginia's College at Wise" 0 0
+"2659" "Washington[edit]" 0 0
+"2660" "Bellevue " 0 0
+"2661" "Bellevue College" 0 0
+"2662" "City University of Seattle" 0 0
+"2663" "Bellingham " 0 0
+"2664" "Western Washington University" 0 0
+"2665" "Cheney " 0 0
+"2666" "Eastern Washington University" 0 0
+"2667" "Ellensburg " 0 0
+"2668" "Central Washington University" 0 0
+"2669" "Lakewood " 0 0
+"2670" "Clover Park Technical College and Pierce College" 0 0
+"2671" "Parkland " 0 0
+"2672" "Pacific Lutheran University" 0 0
+"2673" "Pullman " 0 0
+"2674" "Washington State University" 0 0
+"2675" "Richland " 0 0
+"2676" "Washington State University Tri-Cities" 0 0
+"2677" "Seattle " 0 0
+"2678" "University of Washington" 0 0
+"2679" "Seattle University" 0 0
+"2680" "Seattle Pacific University" 0 0
+"2681" "Spokane " 0 0
+"2682" "Gonzaga University" 0 0
+"2683" "Whitworth University" 0 0
+"2684" "EWU Spokane at the Riverpoint Campus" 0 0
+"2685" "WSU Spokane" 0 0
+"2686" "Tacoma " 0 0
+"2687" "University of Puget Sound" 0 0
+"2688" "Tacoma Community College" 0 0
+"2689" "City University of Seattle-Tacoma" 0 0
+"2690" "Bates Technical College" 0 0
+"2691" "The Evergreen State College Tacoma Campus" 0 0
+"2692" "University of Washington Tacoma" 0 0
+"2693" "Vancouver " 0 0
+"2694" "Washington State University Vancouver" 0 0
+"2695" "West Virginia[edit]" 0 0
+"2696" "Athens " 0 0
+"2697" "Concord University" 0 0
+"2698" "Beckley " 0 0
+"2699" "West Virginia University Institute of Technology" 0 0
+"2700" "Buckhannon " 0 0
+"2701" "West Virginia Wesleyan College" 0 0
+"2702" "Elkins " 0 0
+"2703" "Davis & Elkins College" 0 0
+"2704" "Fairmont " 0 0
+"2705" "Fairmont State University" 0 0
+"2706" "Glenville " 0 0
+"2707" "Glenville State College" 0 0
+"2708" "Institute " 0 0
+"2709" "West Virginia State University" 0 0
+"2710" "Lewisburg " 0 0
+"2711" "West Virginia School of Osteopathic Medicine" 0 0
+"2712" "Morgantown " 0 0
+"2713" "West Virginia University" 0 0
+"2714" "Shepherdstown " 0 0
+"2715" "Shepherd University" 0 0
+"2716" "West Liberty " 0 0
+"2717" "West Liberty University" 0 0
+"2718" "Wisconsin[edit]" 0 0
+"2719" "Appleton " 0 0
+"2720" "Lawrence University" 0 0
+"2721" "Eau Claire " 0 0
+"2722" "University of Wisconsin–Eau Claire" 0 0
+"2723" "Green Bay " 0 0
+"2724" "University of Wisconsin-Green Bay" 0 0
+"2725" "Kenosha " 0 0
+"2726" "University of Wisconsin-Parkside" 0 0
+"2727" "Carthage College" 0 0
+"2728" "Kenosha campus of Gateway Technical College" 0 0
+"2729" "National-Louis University" 0 0
+"2730" "Herzing University" 0 0
+"2731" "La Crosse " 0 0
+"2732" "University of Wisconsin–La Crosse" 0 0
+"2733" "Western Technical College" 0 0
+"2734" "Viterbo University" 0 0
+"2735" "Madison " 0 0
+"2736" "University of Wisconsin–Madison" 0 0
+"2737" "Menomonie " 0 0
+"2738" "University of Wisconsin–Stout" 0 0
+"2739" "Milwaukee " 0 0
+"2740" "Marquette University" 0 0
+"2741" "University of Wisconsin–Milwaukee" 0 0
+"2742" "Cardinal Stritch University" 0 0
+"2743" "Concordia University Wisconsin" 0 0
+"2744" "Oshkosh " 0 0
+"2745" "University of Wisconsin–Oshkosh" 0 0
+"2746" "Platteville " 0 0
+"2747" "University of Wisconsin–Platteville" 0 0
+"2748" "River Falls " 0 0
+"2749" "University of Wisconsin–River Falls" 0 0
+"2750" "Stevens Point " 0 0
+"2751" "University of Wisconsin–Stevens Point" 0 0
+"2752" "Waukesha " 0 0
+"2753" "Carroll University" 0 0
+"2754" "Whitewater " 0 0
+"2755" "University of Wisconsin–Whitewater" 0 0
+"2756" "Wyoming[edit]" 0 0
+"2757" "Laramie " 0 0
+"2758" "University of Wyoming" 0 0
