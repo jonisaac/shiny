@@ -1,0 +1,279 @@
+---
+title: "symitar_analysis"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(stringr)
+library(readtext)
+```
+
+
+```{r}
+home_improvement <- read.csv("list_home_improvement.txt", colClasses = "character", header = FALSE)
+head(home_improvement)
+college_towns <- read.csv("list_college.txt", colClasses = "character", header = F, col.names = "colleges", fileEncoding="UTF-8-BOM")
+#head(college_towns)
+```
+
+
+
+```{r}
+symitar <- read.table("aa5_2.txt", sep = "~", header = TRUE, fill = TRUE, row.names = NULL, stringsAsFactors = F, comment.char = "", colClasses = c(rep("character", 32)))
+heloc <- read.table("heloc_d.txt", sep = "~", header = TRUE, fill = TRUE, row.names = NULL, stringsAsFactors = F, comment.char = "", colClasses = c(rep("character", 32)))
+symitar <- symitar[symitar$account.number != "", ]
+heloc <- heloc[heloc$account.number != "", ]
+head(symitar, 40)
+str(symitar)
+head(heloc, 40)
+helocs_sold <- unique(heloc$account.number)
+symitar[symitar$account.number == "0000010260", ]
+```
+
+
+
+```{r}
+symitar1 <- symitar
+class(symitar$X530_03) <- "integer"
+symitar1$X530_03 <- .01*symitar$X530_03
+payments <- symitar1[, c(1, 4, 31)]
+colnames(payments) <- c("acc_num", "payment", 'description')
+head(payments)
+accounts <- unique(symitar1$account.number)
+length(accounts)
+```
+```{r}
+
+heloc_detect <- function(x){
+  y = sum(str_count(string = helocs_sold, pattern = regex(as.character(x), ignore_case = T)))
+  return(y)
+}
+
+
+matches <- sapply(accounts, heloc_detect)
+which(is.na(matches))
+summary(matches)
+length(matches)
+length(accounts)
+sum(is.na(accounts))
+matches[149]
+accounts[149]
+```
+
+
+
+```{r}
+string_match <- function(x){
+  return(str_count(string = account_df$description, pattern = regex(as.character(x), ignore_case = T)))
+}
+
+string_payment <- function(x){
+  y = str_detect(string = account_df$description, pattern = regex(as.character(x), ignore_case = T))
+  return(as.matrix(y))
+}
+
+string_sum <- function(x){
+  y = str_detect(string = account_df$description, pattern = regex(as.character(x), ignore_case = T))
+  return(colSums(as.matrix(account_df[y ,2])))
+}
+
+```
+
+
+
+
+```{r}
+account_mat <- matrix(nrow = length(accounts), ncol = nrow(home_improvement))
+account_mat_amount <- matrix(nrow = length(accounts), ncol = nrow(home_improvement))
+
+for(j in 1:length(accounts)){
+  account_df <- payments[payments$acc_num == accounts[j], ]
+account_mat[j, ] <- colSums(as.matrix(sapply(home_improvement[ ,1],FUN = string_match)))
+account_mat_amount[j, ] <- sapply(home_improvement[, 1], FUN = string_sum)
+}
+
+rownames(account_mat) <- accounts
+rownames(account_mat_amount) <- accounts
+colnames(account_mat) <- home_improvement[ ,1]
+colnames(account_mat_amount) <- home_improvement[ ,1]
+
+sig_account_hi <- account_mat[rowSums(account_mat)>0, colSums(account_mat)>0]
+head(sig_account_hi)
+sig_account_amount_hi <- account_mat_amount[rowSums(account_mat)>0, colSums(account_mat)>0]
+head(sig_account_hi)
+```
+
+
+
+```{r}
+home_improvement_results <- c()
+home_improvement_amounts <- c()
+number_of_ind <- c()
+for (i in 1:nrow(home_improvement)) {
+  home_improvement_results <- c(home_improvement_results,sum(str_detect(payments$description, (regex(as.character(home_improvement[i,1]), ignore_case = T))), na.rm = T))
+  home_improvement_amounts <- c(home_improvement_amounts, sum(payments$payment[str_detect(payments$description, (regex(as.character(home_improvement[i,1]), ignore_case = T)))], na.rm = T))
+  number_of_ind <- c(number_of_ind, length(unique(payments$acc_num[str_detect(payments$description, (regex(as.character(home_improvement[i,1]), ignore_case = T)))])))
+}
+
+#for (i in 1:nrow(home_improvement)) {
+#home_improvement_results[i] <- #home_improvement_results[i] + #sum(str_detect(payments$X510_04, #(regex(as.character(home_improvement[i,1]), ignore_case = #T))))
+#}
+
+#home_improvement_results
+HI_df <- data.frame(
+  store = home_improvement[ ,1],
+  found = home_improvement_results, 
+  amount = home_improvement_amounts,
+  indiv = number_of_ind
+)
+
+HI_df
+```
+
+
+```{r}
+ggplot(HI_df[HI_df$amount > 0, ]) +
+  geom_col(aes(x = store, y = found)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = .25))
+
+ggplot(HI_df[HI_df$amount > 0, ]) +
+  geom_col(aes(x = store, y = amount)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = .25))
+  
+```
+
+
+
+```{r}
+college_count <- c()
+college_amount <- c()
+for (i in 1:nrow(college_towns)) {
+college_count <- c(college_count, sum(str_detect(payments$description, regex(college_towns[i,], ignore_case = TRUE))))
+college_amount <- c(college_amount, sum(payments$payment[str_detect(payments$description, regex(college_towns[i,], ignore_case = TRUE))], na.rm = TRUE))
+}
+
+sum(college_count)
+
+college_df <- data.frame(
+  college = college_towns$colleges,
+  visits = college_count,
+  amount = college_amount
+)
+sig_col <- college_df[college_df$visits > 0,]
+
+sum(college_df$visits)
+```
+
+```{r}
+ggplot(sig_col) +
+  geom_col(aes(x = college, y = visits)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = .25))
+ggplot(sig_col) +
+  geom_col(aes(x = college, y = amount)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = .25))
+```
+
+
+
+```{r}
+col_account_mat <- matrix(nrow = length(accounts), ncol = nrow(college_towns))
+col_account_mat_amount <- matrix(nrow = length(accounts), ncol = nrow(college_towns))
+dim(col_account_mat)
+for(j in 1:length(accounts)){
+account_df <- payments[payments$acc_num == accounts[j], ]
+if(nrow(account_df)>1){
+col_account_mat[j, ] <- colSums(sapply(college_towns$colleges, FUN = string_match))
+#print(length(sapply(college_towns$colleges, FUN = string_sum)))
+col_account_mat_amount[j, ] <- t(account_df[ ,2]) %*% (sapply(college_towns$colleges, FUN = string_payment))
+print(j)
+} else{
+    col_account_mat[j, ] <- 0
+    col_account_mat_amount[j, ] <- 0
+  }
+}
+
+typeof(col_account_mat_amount)
+
+dim(col_account_mat)
+dim(col_account_mat_amount)
+
+col_account_mat[rowSums(col_account_mat)>0 ,colSums(col_account_mat)>0]
+sig_towns_accounts <- col_account_mat[rowSums(col_account_mat)>0 , colSums(col_account_mat)>0]
+sig_towns_accounts_payments <- col_account_mat_amount[rowSums(col_account_mat_amount)>0, colSums(col_account_mat_amount)>0 ]
+
+dim(sig_towns_accounts)
+
+sig_accounts <- accounts[rowSums(col_account_mat_amount, na.rm = T)>0]
+sig_towns <- college_towns[colSums(col_account_mat_amount, na.rm = T)>0 ,]
+df <- as.data.frame(sig_towns_accounts_payments, row.names = sig_accounts)
+colnames(df) <- sig_towns
+
+#helocs <- matches[rowSums(col_account_mat_amount, na.rm = T)>0]
+helocs <- sample(0:1, size = length(sig_accounts), replace = T, prob = c(.85, .15))
+summary(helocs)
+
+df1 <- data.frame(df, 
+                  helocs = helocs)
+
+model <- lm(helocs ~. ,data = df1)
+
+plot(model$fitted.values)
+
+
+
+
+plot(model)
+
+
+col_account_mat_cols <- cbind(accounts, col_account_mat)
+col_account_mat_cols_rows <- rbind(c(0 ,college_towns$colleges), col_account_mat_cols)
+col_account_mat_amount_cols <- cbind(accounts, col_account_mat_amount)
+col_account_mat_amount_cols_rows <- rbind(c(0 ,college_towns$colleges), col_account_mat_amount_cols)
+write.table(col_account_mat_cols_rows, file = "accounts_transactions.txt")
+write.table(col_account_mat_amount_cols_rows, file = "accounts_payments.txt")
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
