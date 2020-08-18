@@ -20,8 +20,8 @@ function(input, output) {
     library(data.table)
     
     df <- read.table(input$file1$datapath,
-                     header = input$header,
-                     sep = input$sep, fill = TRUE,
+                     header = TRUE,
+                     sep = "~", fill = TRUE,
                      row.names = NULL, stringsAsFactors = F,
                      comment.char = "",
                      colClasses = c(rep("character", 32)))

@@ -31,19 +31,19 @@ fluidPage(theme = shinytheme("superhero"),
                                        "text/comma-separated-values,text/plain",
                                        ".csv")),
                   # Horizontal line ----
-                  tags$hr(),
+                  #tags$hr(),
                   
                   # Input: Checkbox if file has header ----
-                  checkboxInput("header", "Header", TRUE),
+                  #checkboxInput("header", "Header", TRUE),
                   
                   # Input: Select separator ----
-                  radioButtons("sep", "Separator",
-                               choices = c(Tilda = "~", 
-                                           Comma = ",",
-                                           Semicolon = ";",
-                                           Tab = "\t"),
-                               selected = "~")
-                  ),
+                  #radioButtons("sep", "Separator",
+                  #             choices = c(Tilda = "~", 
+                  #                         Comma = ",",
+                  #                         Semicolon = ";",
+                  #                         Tab = "\t"),
+                  #             selected = "~")
+                  #),
                   
                   # Main panel for displaying outputs ----
                   mainPanel(
