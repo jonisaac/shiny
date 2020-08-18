@@ -24,12 +24,20 @@ fluidPage(theme = shinytheme("superhero"),
                         accept = c("text/csv",
                                    "text/comma-separated-values,text/plain",
                                    ".csv")),
+              # Input: Select file ----
+              radioButtons("file", "Select Search File",
+                           choices = c(Home = 1, 
+                                       College = 2,
+                                       Auto = 3,
+                                       new = 4),
+                           selected = 4),
               # Input: Select a file ----
               fileInput("file2", "Choose Search File",
                         multiple = TRUE,
                         accept = c("text/csv",
                                    "text/comma-separated-values,text/plain",
                                    ".csv")),
+              
               # Horizontal line ----
               tags$hr(),
               

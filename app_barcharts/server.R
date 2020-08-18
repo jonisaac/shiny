@@ -11,7 +11,7 @@ function(input, output) {
   
   account_mat <- reactive({
     req(input$file1)
-    req(input$file2)
+    # req(input$file2)
     library(dplyr)
     library(ggplot2)
     library(stringr)
@@ -19,9 +19,17 @@ function(input, output) {
     library(readtext)
     library(data.table)
     
+    files <- c(
+      "../search_files/list_home_improvement.txt",
+      "../search_files/list_college.txt", 
+      "../search_files/indiv_terms.txt",
+      input$file2$datapath
+    )
+    index  <- as.numeric(input$file)
+    
     df <- read.table(input$file1$datapath,
-                     header = TRUE,
-                     sep = "~", fill = TRUE,
+                     header = input$header,
+                     sep = input$sep, fill = TRUE,
                      row.names = NULL, stringsAsFactors = F,
                      comment.char = "",
                      colClasses = c(rep("character", 32)))
@@ -43,7 +51,7 @@ function(input, output) {
     
     accounts <- unique(symitar$account.number)
     
-    search <- read.csv(input$file2$datapath,
+    search <- read.csv(files[index],
                        colClasses = "character",
                        header = FALSE)
     search <- as.data.frame(search)
@@ -92,7 +100,7 @@ function(input, output) {
   output$stacked <- renderPlotly({
     
     req(input$file1)
-    req(input$file2)
+    # req(input$file2)
     
     mat <- account_mat()
     df <- data.frame(terms = row.names(mat), mat)
@@ -107,7 +115,7 @@ function(input, output) {
   
   output$Outliers <- renderDataTable({
     req(input$file1)
-    req(input$file2)
+    #req(input$file2)
     
     df <- account_mat()
     df <- as.data.table(t(df), keep.rownames = TRUE)
@@ -131,5 +139,7 @@ function(input, output) {
   
   #})
   
+  
+  
+  
 }
-
