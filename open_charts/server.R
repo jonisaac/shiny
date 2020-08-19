@@ -10,12 +10,7 @@ function(input, output) {
     library(readtext)
     library(data.table)
     
-    files <- c(
-      "../search_files/list_home_improvement.txt",
-      "../search_files/list_college.txt", 
-      "../search_files/indiv_terms.txt",
-      input$file2$datapath
-    )
+    
     index  <- as.numeric(input$file)
     
     df <- read.table("../search_files/aa5_2.txt",
@@ -42,7 +37,7 @@ function(input, output) {
     
     accounts <- unique(symitar$account.number)
     
-    search <- read.csv(files[index],
+    search <- read.csv(input$file2$datapath,
                        colClasses = "character",
                        header = FALSE)
     search <- as.data.frame(search)
@@ -90,10 +85,20 @@ function(input, output) {
   
   output$stacked <- renderPlotly({
     
-    #req(input$file1)
-    # req(input$file2)
+    files <- c(
+      "../text_files/home_improv.txt",
+      "../text_files/college.txt", 
+      "../text_files/auto.txt"
+    )
     
-    mat <- account_mat()
+    if(as.numeric(input$file) == 4){
+      req(input$file2)
+      mat <- account_mat()
+    } else {
+      mat <- read.table(file = as.character(files[as.numeric(input$file)]), header = TRUE)
+    }
+    
+    
     df <- data.frame(terms = row.names(mat), mat)
     df <- as.data.table(df)
     
@@ -106,9 +111,22 @@ function(input, output) {
   
   output$Outliers <- renderDataTable({
     #req(input$file1)
-    #req(input$file2)
     
-    df <- account_mat()
+    
+    files <- c(
+      "../text_files/home_improv.txt",
+      "../text_files/college.txt", 
+      "../text_files/auto.txt"
+    )
+    
+    if(as.numeric(input$file) == 4){
+      req(input$file2)
+      df <- account_mat()
+    } else {
+      df <- read.table(file = files[as.numeric(input$file)], header = TRUE)
+    }
+    
+    
     df <- as.data.table(t(df), keep.rownames = TRUE)
     return(df)
   })
