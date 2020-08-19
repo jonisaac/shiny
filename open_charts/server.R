@@ -1,14 +1,16 @@
+library(dplyr)
+library(ggplot2)
+library(stringr)
+library(stringi)
+library(readtext)
+library(data.table)
+
 function(input, output) {
   
   account_mat <- reactive({
     #req(input$file1)
     # req(input$file2)
-    library(dplyr)
-    library(ggplot2)
-    library(stringr)
-    library(stringi)
-    library(readtext)
-    library(data.table)
+    
     
     
     index  <- as.numeric(input$file)
