@@ -109,7 +109,7 @@ function(input, output) {
       req(input$file2)
       mat <- account_mat()
     } else {
-      mat <- read.table(file = as.character(files[as.numeric(input$file)]), header = TRUE, stringsAsFactors = F)
+      mat <- read.table(file = as.character(files[as.numeric(input$file)]), header = TRUE, stringsAsFactors = F, encoding = 'UTF-8')
       mat <- mat[ , order(colSums(mat), decreasing = T)]
       mat <- t(mat)
     }
@@ -150,7 +150,7 @@ function(input, output) {
       req(input$file2)
       mat <- account_mat()
     } else {
-      mat <- read.table(file = as.character(files[as.numeric(input$file)]), header = TRUE)
+      mat <- read.table(file = as.character(files[as.numeric(input$file)]), header = TRUE, encoding = 'UTF-8')
       mat <- mat[order(rowSums(mat), decreasing = T) , ]
     }
     
@@ -188,7 +188,7 @@ function(input, output) {
         req(input$file2)
         df <- account_mat()
       } else {
-        df <- read.table(file = files[as.numeric(input$file)], header = TRUE)
+        df <- read.table(file = files[as.numeric(input$file)], header = TRUE, encoding = 'UTF-8')
         df <- df[ , order(colSums(df), decreasing = T)]
       }
       
@@ -224,7 +224,7 @@ function(input, output) {
         req(input$file2)
         df <- account_mat()
       } else {
-        df <- read.table(file = files[as.numeric(input$file)], header = TRUE)
+        df <- read.table(file = files[as.numeric(input$file)], header = TRUE, encoding = 'UTF-8')
         df <- df[ , order(colSums(df), decreasing = T)]
       }
       
