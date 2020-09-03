@@ -194,10 +194,10 @@ function(input, output) {
       
       df <- as.data.table(t(df), keep.rownames = "Account Number")
       summ <- data.table(
-        account_numbers = df$'Account Number', 
-        total = rowSums(df[,-1 ]), 
-        average = round(rowMeans(df[,-1 ]), digits = 2), 
-        multiples_the_average = round(rowSums(df[,-1 ])/mean(rowSums(df[,-1 ]))*2)/2
+        "Account Numbers" = df$'Account Number', 
+        "Total" = rowSums(df[,-1 ]), 
+        'Average' = round(rowMeans(df[,-1 ]), digits = 2), 
+        'Multiples the Average' = round(rowSums(df[,-1 ])/mean(rowSums(df[,-1 ]))*2)/2
       )
       
       return(datatable(summ))
@@ -228,12 +228,12 @@ function(input, output) {
         df <- df[ , order(colSums(df), decreasing = T)]
       }
       
-      df <- as.data.table((df), keep.rownames = "Terms")
+      df <- as.data.table((df), keep.rownames = "terms")
       summ <- data.table(
-        account_numbers = df$'Terms', 
-        total = rowSums(df[,-1 ]), 
-        average = round(rowMeans(df[,-1 ]), digits = 2), 
-        multiples_the_average = round(rowSums(df[,-1 ])/mean(rowSums(df[,-1 ]))*2)/2
+        "Categories" = df$'terms', 
+        "Total" = rowSums(df[,-1 ]), 
+        'Average' = round(rowMeans(df[,-1 ]), digits = 2), 
+        'Multiples the Average' = round(rowSums(df[,-1 ])/mean(rowSums(df[,-1 ]))*2)/2
       )
       
       return(datatable(summ))

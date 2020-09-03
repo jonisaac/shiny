@@ -11,13 +11,20 @@ library(tidyverse)
 
 
 fluidPage(theme = shinytheme("flatly"), 
+          
           # Application title
-          titlePanel("Live Data Analysis"),
+          #titlePanel("Ebbylitics"
+            #div(column(width = 6, h2("My Header")), 
+            #    column(width = 6, tags$img(src = "ebbylity_color_logo.png"))),
+           # windowTitle="MyPage"
+          #),
           
           # Sidebar with a slider input for number of bins 
           fluidPage(
-            
-            sidebarPanel(
+           # tags$img(src = "ebbylity_color_logo.png", height="10%", width="10%", align="left"),
+            sidebarPanel(width = 3,
+                         tags$img(src = "ebbylity_logo.png", height="80%", width="80%", align="left"),
+                         
               # Input: Select a file ----
               #fileInput("file1", "Choose Data File",
               #          multiple = TRUE,
