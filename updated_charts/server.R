@@ -8,11 +8,15 @@ library(shinythemes)
 library(DT)
 library(data.table)
 library(tidyverse)
+library(shinyBS)
+library(shinyLP)
 
 
 function(input, output) {
   
   account_mat <- reactive({
+    
+    shinyLP::runExample()
     
     
     index  <- as.numeric(input$file)
@@ -95,6 +99,12 @@ function(input, output) {
       "../text_files/auto.txt"
     )
     
+    titles <- c(
+      "Total Amount Spent on Home Improvement", 
+      "Total Amount Spent in College Towns", 
+      "Total Amount Spent on Auto Repair"
+    )
+    
     if(as.numeric(input$file) == 4){
       req(input$file2)
       mat <- account_mat()
@@ -114,7 +124,9 @@ function(input, output) {
     data.table::melt(df, id.vars='terms') %>%
       plot_ly(x = ~terms, y = ~value, type = 'bar', 
               name = ~variable, color = ~variable) %>%
-      layout(yaxis = list(title = 'Amount', hoverformat = "$,f"), barmode = 'stack', showlegend = FALSE)
+      layout(yaxis = list(title = 'Amount', hoverformat = "$,f"), 
+             barmode = 'stack', showlegend = FALSE,title = titles[as.numeric(input$file)], 
+             xaxis = list(title = "Account Number"), margin = .25)
     
   })
   
@@ -126,30 +138,42 @@ function(input, output) {
       "../text_files/auto.txt"
     )
     
+    titles <- c(
+      "Total Amount Spent on Home Improvement", 
+      "Total Amount Spent in College Towns", 
+      "Total Amount Spent on Auto Repair"
+    )
+    
+    
+    
     if(as.numeric(input$file) == 4){
       req(input$file2)
       mat <- account_mat()
     } else {
       mat <- read.table(file = as.character(files[as.numeric(input$file)]), header = TRUE)
+      mat <- mat[order(rowSums(mat), decreasing = T) , ]
     }
     
-    
     df <- data.frame(terms = row.names(mat), mat)
+    df$terms <- factor(df$terms, levels = as.character(df$terms))
     df <- as.data.table(df)
     
     data.table::melt(df, id.vars='terms') %>%
+      
       plot_ly(x = ~terms, y = ~value, type = 'bar', 
               name = ~variable, color = ~variable) %>%
-      layout(yaxis = list(title = 'Amount', hoverformat = "$,f"), barmode = 'stack', showlegend = FALSE)
+      layout(yaxis = list(title = 'Amount', hoverformat = "$,f"),
+             barmode = 'stack', showlegend = FALSE,title = titles[as.numeric(input$file)], 
+             xaxis = list(title = "Category"), margin = .25)
     
   })
   
-  output$Outliers <- shiny::renderDataTable(
-    options = list(rowCallback = I(
-      'function(row, data) {
-        $("td", row).css("text-align", "center");
-      }'
-    )),
+  output$Outliers <- renderDataTable(
+   # options = list(rowCallback = I(
+    #  'function(row, data) {
+    #    $("td", row).css("text-align", "center");
+    #  }'
+    #)),
     {
       #req(input$file1)
       
@@ -172,20 +196,20 @@ function(input, output) {
       summ <- data.table(
         account_numbers = df$'Account Number', 
         total = rowSums(df[,-1 ]), 
-        average = rowMeans(df[,-1 ]), 
-        multiples_the_average = rowSums(df[,-1 ])/mean(rowSums(df[,-1 ]))
+        average = round(rowMeans(df[,-1 ]), digits = 2), 
+        multiples_the_average = round(rowSums(df[,-1 ])/mean(rowSums(df[,-1 ]))*2)/2
       )
       
-      return(summ)
+      return(datatable(summ))
     })
   
   
-  output$Stores <- shiny::renderDataTable(
-    options = list(rowCallback = I(
-      'function(row, data) {
-        $("td", row).css("text-align", "center");
-      }'
-    )),
+  output$Stores <- renderDataTable(
+   # options = list(rowCallback = I(
+  #    'function(row, data) {
+  #      $("td", row).css("text-align", "center");
+  #    }'
+  #  )),
     {
       #req(input$file1)
       
@@ -208,11 +232,11 @@ function(input, output) {
       summ <- data.table(
         account_numbers = df$'Terms', 
         total = rowSums(df[,-1 ]), 
-        average = rowMeans(df[,-1 ]), 
-        multiples_the_average = rowSums(df[,-1 ])/mean(rowSums(df[,-1 ]))
+        average = round(rowMeans(df[,-1 ]), digits = 2), 
+        multiples_the_average = round(rowSums(df[,-1 ])/mean(rowSums(df[,-1 ]))*2)/2
       )
       
-      return(summ)
+      return(datatable(summ))
     })
   
   

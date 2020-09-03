@@ -10,7 +10,7 @@ library(data.table)
 library(tidyverse)
 
 
-fluidPage(theme = shinytheme("superhero"), 
+fluidPage(theme = shinytheme("flatly"), 
           # Application title
           titlePanel("Live Data Analysis"),
           
@@ -25,11 +25,11 @@ fluidPage(theme = shinytheme("superhero"),
               #                     "text/comma-separated-values,text/plain",
               #                     ".csv")),
               # Input: Select file ----
-              radioButtons("file", "Select Search File",
-                           choices = c(Home = 1, 
-                                       College = 2,
-                                       Auto = 3),
-                           selected = 1),
+              radioButtons("file", "Choose Analysis",
+                           choices = c("Home Improvement Spend" = 1, 
+                                       "College Town Spend" = 2,
+                                       "Auto Spend" = 3),
+                           selected = 1, width = "200px"),
               # Input: Select a file ----
               #fileInput("file2", "Choose Search File",
               #          multiple = TRUE,
@@ -59,10 +59,10 @@ fluidPage(theme = shinytheme("superhero"),
                                    plotlyOutput("stacked"),
                                    plotlyOutput("storesplot")
                           ), 
-                          tabPanel("Account Table", 
-                                   shiny::dataTableOutput("Outliers")
-                          ),tabPanel("Terms Table", 
-                                     shiny::dataTableOutput("Stores")
+                          tabPanel("Spend by Account", 
+                                   dataTableOutput("Outliers")
+                          ),tabPanel("Spend by Category", 
+                                     dataTableOutput("Stores")
                           )
               )
               
